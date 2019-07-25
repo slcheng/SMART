@@ -43,7 +43,7 @@ Rating — avg. rating per sample.
 | Crucial   | CT500MX200SSD4     | 500 GB | 2       | 222   | 0     | 0.61   |
 | Crucial   | M4-CT512M4SSD2     | 512 GB | 1       | 184   | 0     | 0.51   |
 | Crucial   | CT2000MX500SSD1    | 2 TB   | 1       | 183   | 0     | 0.50   |
-| Crucial   | CT960M500SSD1      | 960 GB | 4       | 436   | 517   | 0.49   |
+| Crucial   | CT960M500SSD1      | 960 GB | 4       | 445   | 517   | 0.49   |
 | Crucial   | M4-CT512M4SSD1     | 512 GB | 1       | 161   | 0     | 0.44   |
 | Crucial   | CT250MX200SSD1     | 250 GB | 4       | 159   | 0     | 0.44   |
 | Crucial   | CT750MX300SSD1     | 752 GB | 4       | 137   | 0     | 0.38   |
@@ -89,7 +89,7 @@ Rating — avg. rating per sample.
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Crucial   | RealSSD m4/C400        | 5      | 34      | 822   | 90    | 2.21   |
 | Crucial   | RealSSD m4/C400/P400   | 2      | 10      | 651   | 0     | 1.78   |
-| Crucial   | MX100/MX200/M5x0/M6... | 7      | 27      | 349   | 82    | 0.72   |
+| Crucial   | MX100/MX200/M5x0/M6... | 7      | 27      | 351   | 82    | 0.72   |
 | Crucial   | MX100/M500/M510/M55... | 1      | 6       | 252   | 0     | 0.69   |
 | Crucial   | RealSSD C300/M500      | 6      | 29      | 418   | 80    | 0.69   |
 | Crucial   | MX1/2/300, M5/600, ... | 7      | 27      | 167   | 17    | 0.41   |

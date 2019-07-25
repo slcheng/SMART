@@ -90,7 +90,7 @@ Rating — avg. rating per sample.
 | Kingston  | SKC400S37256G      | 256 GB | 1       | 64    | 0     | 0.18   |
 | Kingston  | SHPM2280P2H-480G   | 480 GB | 1       | 180   | 2     | 0.16   |
 | Kingston  | SUV500480G         | 480 GB | 1       | 57    | 0     | 0.16   |
-| Kingston  | SHFS37A120G        | 120 GB | 52      | 130   | 412   | 0.15   |
+| Kingston  | SHFS37A120G        | 120 GB | 52      | 131   | 412   | 0.15   |
 | Kingston  | SA400S37240G       | 240 GB | 26      | 67    | 5     | 0.14   |
 | Kingston  | RBU-SC152S37128GG2 | 128 GB | 1       | 45    | 0     | 0.12   |
 | Kingston  | SA400S37120G       | 120 GB | 68      | 40    | 1     | 0.11   |
@@ -127,6 +127,6 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Kingston  | JMicron based SSDs     | 11     | 25      | 485   | 2     | 1.04   |
-| Kingston  | SandForce Driven SSDs  | 32     | 616     | 256   | 69    | 0.61   |
+| Kingston  | SandForce Driven SSDs  | 32     | 616     | 257   | 69    | 0.61   |
 | Kingston  | Unknown                | 34     | 126     | 135   | 57    | 0.33   |
 | Kingston  | Phison Driven SSDs     | 12     | 156     | 70    | 2     | 0.18   |
