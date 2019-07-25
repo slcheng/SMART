@@ -18,5 +18,5 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | Kingmax   | SSD                | 120 GB | 17      | 178   | 481   | 0.16   |
-| Kingmax   | SSD                | 64 GB  | 18      | 211   | 523   | 0.08   |
+| Kingmax   | SSD                | 64 GB  | 18      | 220   | 523   | 0.08   |
 | Kingmax   | SSD                | 240 GB | 1       | 0     | 0     | 0.00   |

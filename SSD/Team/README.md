@@ -17,9 +17,9 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Team      | L3 SSD             | 120 GB | 2       | 207   | 0     | 0.57   |
+| Team      | L3 SSD             | 120 GB | 2       | 221   | 0     | 0.61   |
 | Team      | L3 EVO SSD         | 120 GB | 2       | 139   | 0     | 0.38   |
-| Team      | L5 LITE SSD        | 120 GB | 2       | 108   | 0     | 0.30   |
+| Team      | L5 LITE SSD        | 120 GB | 2       | 110   | 0     | 0.30   |
 | Team      | L5 LITE SSD        | 64 GB  | 1       | 52    | 0     | 0.14   |
 | Team      | L7 EVO SSD         | 64 GB  | 1       | 51    | 0     | 0.14   |
 | Team      | TEAML5Lite3D120G   | 120 GB | 1       | 27    | 0     | 0.07   |

@@ -25,19 +25,19 @@ Rating — avg. rating per sample.
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | Goodram   | C50                | 64 GB  | 1       | 313   | 0     | 0.86   |
 | Goodram   | GOODRAM SSD        | 120 GB | 2       | 269   | 0     | 0.74   |
-| Goodram   | GOODRAM C40        | 120 GB | 3       | 259   | 0     | 0.71   |
+| Goodram   | GOODRAM C40        | 120 GB | 3       | 266   | 0     | 0.73   |
 | Goodram   | GOODRAM C100       | 120 GB | 1       | 214   | 0     | 0.59   |
-| Goodram   | GOODRAM CX100      | 120 GB | 6       | 149   | 2     | 0.39   |
-| Goodram   | GOODRAM            | 120 GB | 17      | 121   | 0     | 0.33   |
-| Goodram   | GOODRAM C50        | 64 GB  | 1       | 114   | 0     | 0.31   |
+| Goodram   | GOODRAM CX100      | 120 GB | 6       | 151   | 2     | 0.39   |
+| Goodram   | GOODRAM            | 120 GB | 17      | 122   | 0     | 0.34   |
+| Goodram   | GOODRAM C50        | 64 GB  | 1       | 115   | 0     | 0.32   |
+| Goodram   | GOODRAM IR-SSDP... | 120 GB | 2       | 59    | 0     | 0.16   |
 | Goodram   | GOODRAM IR-SSDP... | 240 GB | 1       | 44    | 0     | 0.12   |
-| Goodram   | GOODRAM IR-SSDP... | 120 GB | 2       | 23    | 0     | 0.06   |
 | Goodram   | GOODRAM SSDPR-C... | 128 GB | 2       | 14    | 0     | 0.04   |
 | Goodram   | GOODRAM SSDPR-C... | 120 GB | 1       | 11    | 0     | 0.03   |
+| Goodram   | GOODRAM SSDPR_C... | 120 GB | 1       | 6     | 0     | 0.02   |
 | Goodram   | GOODRAM IR_SSDP... | 120 GB | 1       | 2     | 0     | 0.01   |
 | Goodram   | GOODRAM SSDPR-C... | 240 GB | 1       | 2     | 0     | 0.01   |
 | Goodram   | GOODRAM SSDPR-C... | 120 GB | 1       | 1     | 0     | 0.00   |
-| Goodram   | GOODRAM SSDPR_C... | 120 GB | 1       | 0     | 0     | 0.00   |
 
 SSD by Family
 -------------
@@ -52,5 +52,5 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Goodram   | Unknown                | 14     | 24      | 124   | 1     | 0.34   |
-| Goodram   | Phison Driven SSDs     | 1      | 17      | 121   | 0     | 0.33   |
+| Goodram   | Unknown                | 14     | 24      | 129   | 1     | 0.35   |
+| Goodram   | Phison Driven SSDs     | 1      | 17      | 122   | 0     | 0.34   |

@@ -17,7 +17,7 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Zheino    | CHN-25SATAA3-480   | 480 GB | 2       | 27    | 0     | 0.08   |
-| Zheino    | CHN 25SATA01M 060  | 64 GB  | 1       | 3     | 0     | 0.01   |
-| Zheino    | CHN25SATAS1 032    | 31 GB  | 2       | 0     | 0     | 0.00   |
+| Zheino    | CHN-25SATAA3-480   | 480 GB | 2       | 37    | 0     | 0.10   |
+| Zheino    | CHN 25SATA01M 060  | 64 GB  | 1       | 4     | 0     | 0.01   |
+| Zheino    | CHN25SATAS1 032    | 31 GB  | 2       | 1     | 0     | 0.00   |
 | Zheino    | CHN25SATAS1 064    | 64 GB  | 1       | 0     | 0     | 0.00   |

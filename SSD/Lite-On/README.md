@@ -17,14 +17,14 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Lite-On   | LCS-256L9S-11 2... | 256 GB | 1       | 737   | 0     | 2.02   |
+| Lite-On   | LCS-256L9S-11 2... | 256 GB | 1       | 739   | 0     | 2.02   |
+| Lite-On   | IT L8T-128L9G      | 128 GB | 1       | 105   | 0     | 0.29   |
 | Lite-On   | CV5-8Q128          | 128 GB | 1       | 103   | 0     | 0.28   |
-| Lite-On   | IT L8T-128L9G      | 128 GB | 1       | 99    | 0     | 0.27   |
-| Lite-On   | PH2-CJ120          | 120 GB | 1       | 87    | 0     | 0.24   |
+| Lite-On   | PH2-CJ120          | 120 GB | 1       | 88    | 0     | 0.24   |
 | Lite-On   | LAT-256M2S         | 256 GB | 1       | 239   | 2     | 0.22   |
 | Lite-On   | CV3-8D128-11 SATA  | 128 GB | 2       | 72    | 0     | 0.20   |
-| Lite-On   | LMT-32L3M-HP       | 32 GB  | 2       | 64    | 0     | 0.18   |
-| Lite-On   | L8H-256V2G-HP      | 256 GB | 2       | 52    | 0     | 0.15   |
+| Lite-On   | LMT-32L3M-HP       | 32 GB  | 2       | 65    | 0     | 0.18   |
+| Lite-On   | L8H-256V2G-HP      | 256 GB | 2       | 54    | 0     | 0.15   |
 | Lite-On   | LMT-64M6M-HP       | 64 GB  | 1       | 51    | 0     | 0.14   |
 | Lite-On   | LMT-19nmBGA-128G   | 128 GB | 1       | 51    | 0     | 0.14   |
 | Lite-On   | CV3-8D128          | 128 GB | 2       | 50    | 0     | 0.14   |

@@ -17,9 +17,9 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
+| FASTDISK  | FASTDISK FASTDI... | 120 GB | 1       | 15    | 0     | 0.04   |
 | FASTDISK  | FASTDISK 60G       | 64 GB  | 1       | 14    | 0     | 0.04   |
-| FASTDISK  | FASTDISK 120G      | 120 GB | 1       | 2     | 0     | 0.01   |
+| FASTDISK  | FASTDISK 120G      | 120 GB | 1       | 7     | 0     | 0.02   |
 | FASTDISK  | FASTDISK           | 64 GB  | 1       | 1     | 0     | 0.00   |
 | FASTDISK  | FASTDISK 30G       | 32 GB  | 1       | 1     | 0     | 0.00   |
 | FASTDISK  | FASTDISK 32G       | 32 GB  | 1       | 0     | 0     | 0.00   |
-| FASTDISK  | FASTDISK FASTDI... | 120 GB | 1       | 0     | 0     | 0.00   |
