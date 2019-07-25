@@ -30,7 +30,7 @@ Rating — avg. rating per sample.
 | Apacer    | AS330              | 120 GB | 2       | 39    | 0     | 0.11   |
 | Apacer    | AS350              | 120 GB | 4       | 25    | 0     | 0.07   |
 | Apacer    | AS510S             | 64 GB  | 2       | 15    | 0     | 0.04   |
-| Apacer    | AS350              | 240 GB | 5       | 11    | 0     | 0.03   |
+| Apacer    | AS350              | 240 GB | 5       | 12    | 0     | 0.03   |
 | Apacer    | AST280             | 240 GB | 1       | 7     | 0     | 0.02   |
 | Apacer    | 16GB SATA Flash... | 16 GB  | 1       | 33    | 10    | 0.01   |
 

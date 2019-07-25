@@ -46,15 +46,15 @@ Rating — avg. rating per sample.
 | Transcend | TS256GSSD370S      | 256 GB | 2       | 23    | 0     | 0.06   |
 | Transcend | TS120GSSD220S      | 120 GB | 5       | 21    | 0     | 0.06   |
 | Transcend | TS128GSSD230S      | 128 GB | 6       | 20    | 0     | 0.06   |
+| Transcend | TS128GMTS800       | 128 GB | 3       | 16    | 0     | 0.05   |
 | Transcend | TS32GSSD370S       | 32 GB  | 4       | 15    | 0     | 0.04   |
 | Transcend | TS64GSSD25S-M      | 64 GB  | 2       | 15    | 0     | 0.04   |
 | Transcend | TS128GSSD360S      | 128 GB | 6       | 13    | 0     | 0.04   |
 | Transcend | TS128GMTS600       | 128 GB | 1       | 13    | 0     | 0.04   |
 | Transcend | TS512GMSA370       | 512 GB | 1       | 12    | 0     | 0.03   |
-| Transcend | TS128GMTS800       | 128 GB | 3       | 9     | 0     | 0.03   |
 | Transcend | TS240GMTS820S      | 240 GB | 1       | 6     | 0     | 0.02   |
+| Transcend | TS64GSSD370        | 64 GB  | 2       | 4     | 0     | 0.01   |
 | Transcend | TS256GSSD360S      | 256 GB | 2       | 2     | 0     | 0.01   |
-| Transcend | TS64GSSD370        | 64 GB  | 2       | 2     | 0     | 0.01   |
 | Transcend | TS64GMTS800        | 64 GB  | 1       | 2     | 0     | 0.01   |
 | Transcend | TS32GMSA370        | 32 GB  | 1       | 1     | 0     | 0.01   |
 | Transcend | TS128GMSA370       | 128 GB | 1       | 1     | 0     | 0.00   |
