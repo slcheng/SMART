@@ -18,12 +18,12 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | SPCC      | SSD110             | 120 GB | 4       | 459   | 254   | 0.96   |
-| SPCC      | SSD110             | 64 GB  | 4       | 453   | 255   | 0.70   |
+| SPCC      | SSD110             | 64 GB  | 4       | 464   | 254   | 0.70   |
 | SPCC      | SSD B29            | 32 GB  | 1       | 204   | 0     | 0.56   |
 | SPCC      | SSD162             | 120 GB | 7       | 406   | 436   | 0.51   |
 | SPCC      | SSD                | 128 GB | 4       | 179   | 0     | 0.49   |
-| SPCC      | SSD                | 64 GB  | 63      | 165   | 49    | 0.42   |
-| SPCC      | SSD                | 120 GB | 90      | 178   | 114   | 0.39   |
+| SPCC      | SSD                | 64 GB  | 63      | 167   | 49    | 0.42   |
+| SPCC      | SSD                | 120 GB | 90      | 181   | 114   | 0.40   |
 | SPCC      | SSD A20            | 64 GB  | 1       | 97    | 0     | 0.27   |
 | SPCC      | SSD170             | 120 GB | 3       | 239   | 341   | 0.26   |
 | SPCC      | SSD                | 55 GB  | 7       | 236   | 436   | 0.20   |

@@ -23,7 +23,7 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| ADATA     | SSD S510           | 120 GB | 4       | 821   | 0     | 2.25   |
+| ADATA     | SSD S510           | 120 GB | 4       | 823   | 0     | 2.26   |
 | ADATA     | SP600              | 256 GB | 2       | 477   | 0     | 1.31   |
 | ADATA     | SSD S396           | 32 GB  | 1       | 462   | 0     | 1.27   |
 | ADATA     | SSD S511           | 120 GB | 1       | 430   | 0     | 1.18   |
@@ -33,14 +33,14 @@ Rating — avg. rating per sample.
 | ADATA     | SP600              | 128 GB | 3       | 189   | 0     | 0.52   |
 | ADATA     | SP900              | 64 GB  | 12      | 245   | 2     | 0.51   |
 | ADATA     | SSD S599           | 64 GB  | 1       | 178   | 0     | 0.49   |
-| ADATA     | SX900              | 128 GB | 7       | 691   | 584   | 0.46   |
+| ADATA     | SX900              | 128 GB | 7       | 698   | 584   | 0.47   |
 | ADATA     | SX930              | 120 GB | 1       | 138   | 0     | 0.38   |
 | ADATA     | SP600              | 32 GB  | 4       | 127   | 0     | 0.35   |
 | ADATA     | SSD S511           | 64 GB  | 3       | 450   | 679   | 0.33   |
 | ADATA     | SP310              | 128 GB | 1       | 120   | 0     | 0.33   |
 | ADATA     | SSD SX900 512GB... | 512 GB | 1       | 120   | 0     | 0.33   |
 | ADATA     | XM13               | 32 GB  | 1       | 116   | 0     | 0.32   |
-| ADATA     | SP920SS            | 128 GB | 4       | 289   | 4     | 0.30   |
+| ADATA     | SP920SS            | 128 GB | 4       | 306   | 4     | 0.30   |
 | ADATA     | SP600              | 64 GB  | 7       | 113   | 2     | 0.28   |
 | ADATA     | SU650              | 480 GB | 1       | 77    | 0     | 0.21   |
 | ADATA     | SP580              | 120 GB | 6       | 74    | 0     | 0.20   |
@@ -49,15 +49,15 @@ Rating — avg. rating per sample.
 | ADATA     | SP900NS38          | 128 GB | 3       | 124   | 339   | 0.16   |
 | ADATA     | SU700              | 120 GB | 3       | 44    | 0     | 0.12   |
 | ADATA     | SP920SS            | 256 GB | 4       | 138   | 8     | 0.11   |
+| ADATA     | SP550              | 240 GB | 6       | 39    | 0     | 0.11   |
 | ADATA     | SX950              | 240 GB | 1       | 34    | 0     | 0.09   |
 | ADATA     | SP900NS34          | 128 GB | 1       | 30    | 0     | 0.08   |
 | ADATA     | SU800NS38          | 256 GB | 1       | 29    | 0     | 0.08   |
-| ADATA     | SP550              | 240 GB | 6       | 28    | 0     | 0.08   |
+| ADATA     | SU800              | 128 GB | 18      | 30    | 5     | 0.08   |
 | ADATA     | SP900              | 512 GB | 2       | 26    | 0     | 0.07   |
-| ADATA     | SU800              | 128 GB | 18      | 25    | 5     | 0.06   |
-| ADATA     | SU650              | 120 GB | 7       | 32    | 2     | 0.06   |
+| ADATA     | SU650              | 120 GB | 7       | 34    | 2     | 0.07   |
+| ADATA     | SU900              | 256 GB | 4       | 21    | 1     | 0.06   |
 | ADATA     | SP610              | 256 GB | 1       | 18    | 0     | 0.05   |
-| ADATA     | SU900              | 256 GB | 4       | 18    | 1     | 0.05   |
 | ADATA     | SU800              | 1 TB   | 1       | 13    | 0     | 0.04   |
 | ADATA     | IM2S3138E-128GM-B  | 128 GB | 1       | 11    | 0     | 0.03   |
 | ADATA     | SP550              | 120 GB | 18      | 11    | 1     | 0.03   |
@@ -88,5 +88,5 @@ Rating — avg. rating per sample.
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | ADATA     | SandForce Driven SSDs  | 8      | 51      | 326   | 8     | 0.74   |
 | ADATA     | JMicron based SSDs     | 5      | 17      | 173   | 1     | 0.46   |
-| ADATA     | Unknown                | 34     | 93      | 163   | 158   | 0.16   |
-| ADATA     | SiliconMotion based... | 2      | 24      | 16    | 1     | 0.04   |
+| ADATA     | Unknown                | 34     | 93      | 165   | 158   | 0.17   |
+| ADATA     | SiliconMotion based... | 2      | 24      | 18    | 1     | 0.05   |

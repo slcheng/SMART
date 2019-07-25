@@ -41,8 +41,8 @@ Rating — avg. rating per sample.
 | SanDisk   | SD6SB1M128G1001    | 128 GB | 1       | 271   | 0     | 0.74   |
 | SanDisk   | SD8SN8U512G1002    | 512 GB | 3       | 268   | 0     | 0.74   |
 | SanDisk   | SDSSDHP128G        | 128 GB | 17      | 280   | 1     | 0.73   |
+| SanDisk   | iSSD P4            | 8 GB   | 3       | 349   | 1     | 0.73   |
 | SanDisk   | SD6SB1M128G        | 128 GB | 1       | 256   | 0     | 0.70   |
-| SanDisk   | iSSD P4            | 8 GB   | 3       | 338   | 1     | 0.70   |
 | SanDisk   | SDSSDP064G         | 64 GB  | 5       | 294   | 205   | 0.66   |
 | SanDisk   | SSD i100           | 16 GB  | 5       | 233   | 0     | 0.64   |
 | SanDisk   | SDSSDH31000G       | 1 TB   | 1       | 231   | 0     | 0.64   |
@@ -57,8 +57,8 @@ Rating — avg. rating per sample.
 | SanDisk   | SD6SF1M128G1022I   | 128 GB | 1       | 391   | 1     | 0.54   |
 | SanDisk   | SDSSDHII120G       | 120 GB | 17      | 178   | 0     | 0.49   |
 | SanDisk   | SD7SB3Q256G1002    | 256 GB | 1       | 355   | 1     | 0.49   |
+| SanDisk   | SDSSDP128G         | 128 GB | 20      | 174   | 1     | 0.48   |
 | SanDisk   | SDSSDP256G         | 256 GB | 2       | 169   | 0     | 0.46   |
-| SanDisk   | SDSSDP128G         | 128 GB | 20      | 169   | 1     | 0.46   |
 | SanDisk   | SD7SB6S256G1122    | 256 GB | 1       | 163   | 0     | 0.45   |
 | SanDisk   | SSD i100           | 24 GB  | 12      | 156   | 3     | 0.41   |
 | SanDisk   | SDSSDX240GG25      | 240 GB | 1       | 1348  | 8     | 0.41   |
@@ -81,8 +81,8 @@ Rating — avg. rating per sample.
 | SanDisk   | SD8TB8U512G1001    | 512 GB | 1       | 66    | 0     | 0.18   |
 | SanDisk   | SSD U110           | 16 GB  | 9       | 63    | 0     | 0.17   |
 | SanDisk   | SSD U100           | 24 GB  | 15      | 70    | 19    | 0.17   |
+| SanDisk   | SDSSDA240G         | 240 GB | 40      | 59    | 0     | 0.16   |
 | SanDisk   | SDSSDH2064G        | 64 GB  | 1       | 58    | 0     | 0.16   |
-| SanDisk   | SDSSDA240G         | 240 GB | 40      | 57    | 0     | 0.16   |
 | SanDisk   | SSD PLUS 240 GB    | 240 GB | 5       | 53    | 0     | 0.15   |
 | SanDisk   | SDSSDA960G         | 960 GB | 1       | 52    | 0     | 0.14   |
 | SanDisk   | SD5SF2032G1010E    | 32 GB  | 1       | 45    | 0     | 0.13   |
@@ -96,11 +96,11 @@ Rating — avg. rating per sample.
 | SanDisk   | SSD PLUS           | 240 GB | 4       | 30    | 0     | 0.08   |
 | SanDisk   | SDSSDA120G         | 120 GB | 27      | 33    | 4     | 0.08   |
 | SanDisk   | SDSA5DK-016G-1006  | 16 GB  | 1       | 29    | 0     | 0.08   |
-| SanDisk   | SD7SB3Q128G1002    | 128 GB | 1       | 98    | 3     | 0.07   |
+| SanDisk   | SD7SB3Q128G1002    | 128 GB | 1       | 99    | 3     | 0.07   |
 | SanDisk   | SSD U100           | 64 GB  | 5       | 18    | 0     | 0.05   |
 | SanDisk   | SDSSDH3250G        | 250 GB | 1       | 18    | 0     | 0.05   |
 | SanDisk   | SD8SN8U1T001122    | 1 TB   | 1       | 17    | 0     | 0.05   |
-| SanDisk   | SD8SN8U-128G-1006  | 128 GB | 10      | 31    | 3     | 0.05   |
+| SanDisk   | SD8SN8U-128G-1006  | 128 GB | 10      | 33    | 3     | 0.05   |
 | SanDisk   | SD6SB1M-128G-1006  | 128 GB | 1       | 16    | 0     | 0.05   |
 | SanDisk   | SD8SBAT128G1122    | 128 GB | 1       | 15    | 0     | 0.04   |
 | SanDisk   | SSD PLUS           | 120 GB | 3       | 12    | 0     | 0.04   |
@@ -147,7 +147,7 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| SanDisk   | Marvell based SanDi... | 33     | 113     | 196   | 42    | 0.49   |
-| SanDisk   | SanDisk based SSDs     | 20     | 95      | 163   | 28    | 0.40   |
+| SanDisk   | Marvell based SanDi... | 33     | 113     | 197   | 42    | 0.49   |
+| SanDisk   | SanDisk based SSDs     | 20     | 95      | 164   | 28    | 0.40   |
 | SanDisk   | Unknown                | 51     | 90      | 94    | 83    | 0.22   |
-| SanDisk   | SandForce Driven SSDs  | 6      | 76      | 77    | 16    | 0.16   |
+| SanDisk   | SandForce Driven SSDs  | 6      | 76      | 78    | 16    | 0.17   |
