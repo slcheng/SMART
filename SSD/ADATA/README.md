@@ -23,15 +23,15 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| ADATA     | SSD S510           | 120 GB | 4       | 823   | 0     | 2.26   |
+| ADATA     | SSD S510           | 120 GB | 4       | 824   | 0     | 2.26   |
 | ADATA     | SP600              | 256 GB | 2       | 477   | 0     | 1.31   |
 | ADATA     | SSD S396           | 32 GB  | 1       | 462   | 0     | 1.27   |
 | ADATA     | SSD S511           | 120 GB | 1       | 430   | 0     | 1.18   |
 | ADATA     | SP900              | 256 GB | 8       | 371   | 2     | 0.75   |
 | ADATA     | SX900              | 64 GB  | 3       | 500   | 339   | 0.68   |
-| ADATA     | SP900              | 128 GB | 22      | 307   | 16    | 0.67   |
-| ADATA     | SP600              | 128 GB | 3       | 191   | 0     | 0.53   |
-| ADATA     | SP900              | 64 GB  | 12      | 246   | 2     | 0.51   |
+| ADATA     | SP900              | 128 GB | 22      | 308   | 16    | 0.67   |
+| ADATA     | SP600              | 128 GB | 3       | 192   | 0     | 0.53   |
+| ADATA     | SP900              | 64 GB  | 12      | 249   | 2     | 0.51   |
 | ADATA     | SX900              | 128 GB | 7       | 705   | 584   | 0.49   |
 | ADATA     | SSD S599           | 64 GB  | 1       | 178   | 0     | 0.49   |
 | ADATA     | SX930              | 120 GB | 1       | 138   | 0     | 0.38   |
@@ -45,7 +45,7 @@ Rating — avg. rating per sample.
 | ADATA     | SU650              | 480 GB | 1       | 77    | 0     | 0.21   |
 | ADATA     | SP580              | 120 GB | 6       | 74    | 0     | 0.20   |
 | ADATA     | S596               | 128 GB | 1       | 68    | 0     | 0.19   |
-| ADATA     | SP900              | 512 GB | 2       | 63    | 0     | 0.17   |
+| ADATA     | SP900              | 512 GB | 2       | 66    | 0     | 0.18   |
 | ADATA     | SP610              | 128 GB | 2       | 57    | 0     | 0.16   |
 | ADATA     | SP900NS38          | 128 GB | 3       | 124   | 339   | 0.16   |
 | ADATA     | SU700              | 120 GB | 3       | 44    | 0     | 0.12   |
@@ -60,7 +60,7 @@ Rating — avg. rating per sample.
 | ADATA     | SP610              | 256 GB | 1       | 18    | 0     | 0.05   |
 | ADATA     | SU800              | 1 TB   | 1       | 13    | 0     | 0.04   |
 | ADATA     | IM2S3138E-128GM-B  | 128 GB | 1       | 11    | 0     | 0.03   |
-| ADATA     | SP550              | 120 GB | 18      | 11    | 1     | 0.03   |
+| ADATA     | SP550              | 120 GB | 18      | 12    | 1     | 0.03   |
 | ADATA     | SU650              | 240 GB | 6       | 10    | 0     | 0.03   |
 | ADATA     | SX300              | 128 GB | 1       | 10    | 0     | 0.03   |
 | ADATA     | SU900              | 128 GB | 1       | 9     | 0     | 0.02   |
@@ -86,7 +86,7 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| ADATA     | SandForce Driven SSDs  | 8      | 51      | 330   | 8     | 0.75   |
+| ADATA     | SandForce Driven SSDs  | 8      | 51      | 332   | 8     | 0.76   |
 | ADATA     | JMicron based SSDs     | 5      | 17      | 174   | 1     | 0.47   |
 | ADATA     | Unknown                | 34     | 93      | 166   | 158   | 0.17   |
 | ADATA     | SiliconMotion based... | 2      | 24      | 18    | 1     | 0.05   |

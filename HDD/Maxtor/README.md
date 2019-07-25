@@ -94,8 +94,8 @@ Rating — avg. rating per sample.
 | Maxtor    | 6E020L0            | 20 GB  | 1       | 22    | 6     | 0.01   |
 | Maxtor    | 6B160M0            | 163 GB | 1       | 3     | 0     | 0.01   |
 | Maxtor    | 7L250S0            | 250 GB | 1       | 7     | 2     | 0.01   |
+| Maxtor    | 6Y080P0            | 81 GB  | 7       | 14    | 7     | 0.01   |
 | Maxtor    | 2B020H1            | 20 GB  | 6       | 23    | 75    | 0.01   |
-| Maxtor    | 6Y080P0            | 81 GB  | 7       | 13    | 7     | 0.01   |
 | Maxtor    | 6Y160P0            | 163 GB | 3       | 16    | 193   | 0.01   |
 | Maxtor    | 6L250S0            | 250 GB | 1       | 40    | 23    | 0.00   |
 | Maxtor    | 6Y080L0            | 80 GB  | 30      | 20    | 354   | 0.00   |

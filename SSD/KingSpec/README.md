@@ -34,7 +34,7 @@ Rating — avg. rating per sample.
 | KingSpec  | P3-128             | 128 GB | 2       | 9     | 0     | 0.03   |
 | KingSpec  | ACSC2M064mSA       | 63 GB  | 1       | 9     | 0     | 0.03   |
 | KingSpec  | T-60               | 64 GB  | 3       | 7     | 0     | 0.02   |
-| KingSpec  | ACSC2M128mSA       | 128 GB | 1       | 6     | 0     | 0.02   |
+| KingSpec  | ACSC2M128mSA       | 128 GB | 1       | 7     | 0     | 0.02   |
 | KingSpec  | MT-256             | 256 GB | 2       | 5     | 0     | 0.01   |
 | KingSpec  | ACSC2M128S25       | 128 GB | 1       | 4     | 0     | 0.01   |
 | KingSpec  | ACJC2M032mSH       | 32 GB  | 1       | 3     | 0     | 0.01   |

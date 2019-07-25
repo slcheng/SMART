@@ -49,11 +49,11 @@ Rating — avg. rating per sample.
 | Toshiba   | THNSNH128GMCT      | 128 GB | 2       | 186   | 0     | 0.51   |
 | Toshiba   | THNSNF064GMCS      | 64 GB  | 2       | 129   | 0     | 0.35   |
 | Toshiba   | Q300               | 120 GB | 2       | 112   | 0     | 0.31   |
+| Toshiba   | VX500              | 256 GB | 1       | 107   | 0     | 0.29   |
 | Toshiba   | TR200              | 480 GB | 2       | 104   | 0     | 0.29   |
 | Toshiba   | THNSNH256GBST      | 256 GB | 1       | 102   | 0     | 0.28   |
 | Toshiba   | THNSNJ128G8NY      | 128 GB | 1       | 98    | 0     | 0.27   |
 | Toshiba   | THNSNJ512GDNU A    | 512 GB | 1       | 96    | 0     | 0.26   |
-| Toshiba   | VX500              | 256 GB | 1       | 95    | 0     | 0.26   |
 | Toshiba   | Q300 Pro           | 128 GB | 1       | 79    | 0     | 0.22   |
 | Toshiba   | TR150              | 480 GB | 2       | 70    | 0     | 0.19   |
 | Toshiba   | TR150              | 240 GB | 7       | 67    | 0     | 0.19   |
@@ -92,7 +92,7 @@ Rating — avg. rating per sample.
 | Toshiba   | HG5d Series            | 7      | 10      | 273   | 0     | 0.75   |
 | Toshiba   | HG6 Series SSD         | 6      | 13      | 218   | 0     | 0.60   |
 | Toshiba   | Unknown                | 22     | 41      | 172   | 10    | 0.45   |
-| Toshiba   | OCZ                    | 5      | 14      | 100   | 0     | 0.28   |
+| Toshiba   | OCZ                    | 5      | 14      | 101   | 0     | 0.28   |
 | Toshiba   | HG6 Series             | 1      | 1       | 98    | 0     | 0.27   |
 | Toshiba   | OCZ/Toshiba Trion SSDs | 1      | 2       | 70    | 0     | 0.19   |
 | Toshiba   | SG2 Series             | 1      | 1       | 32    | 0     | 0.09   |

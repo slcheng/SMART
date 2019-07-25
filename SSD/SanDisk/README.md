@@ -39,7 +39,7 @@ Rating — avg. rating per sample.
 | SanDisk   | SSD U100           | 128 GB | 6       | 390   | 33    | 0.81   |
 | SanDisk   | X300 2.5 7MM       | 256 GB | 1       | 297   | 0     | 0.81   |
 | SanDisk   | SD6SB1M128G1001    | 128 GB | 1       | 271   | 0     | 0.74   |
-| SanDisk   | SDSSDHP128G        | 128 GB | 17      | 282   | 1     | 0.74   |
+| SanDisk   | SDSSDHP128G        | 128 GB | 17      | 284   | 1     | 0.74   |
 | SanDisk   | SD8SN8U512G1002    | 512 GB | 3       | 268   | 0     | 0.74   |
 | SanDisk   | iSSD P4            | 8 GB   | 3       | 350   | 1     | 0.73   |
 | SanDisk   | SD6SB1M128G        | 128 GB | 1       | 256   | 0     | 0.70   |
