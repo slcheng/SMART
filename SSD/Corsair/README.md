@@ -24,18 +24,18 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | Corsair   | Force 3 SSD        | 180 GB | 4       | 1926  | 1     | 4.19   |
+| Corsair   | Force 3 SSD        | 240 GB | 2       | 1196  | 0     | 3.28   |
 | Corsair   | Force GS           | 180 GB | 2       | 854   | 0     | 2.34   |
 | Corsair   | Force GS           | 90 GB  | 1       | 776   | 0     | 2.13   |
-| Corsair   | Force 3 SSD        | 240 GB | 2       | 737   | 0     | 2.02   |
-| Corsair   | Force 3 SSD        | 120 GB | 7       | 711   | 0     | 1.95   |
+| Corsair   | Force 3 SSD        | 120 GB | 7       | 715   | 0     | 1.96   |
 | Corsair   | Force 3 SSD        | 64 GB  | 9       | 686   | 0     | 1.88   |
-| Corsair   | Force GT           | 120 GB | 8       | 781   | 1     | 1.77   |
+| Corsair   | Force GT           | 120 GB | 8       | 797   | 1     | 1.82   |
 | Corsair   | Force 3 SSD        | 480 GB | 1       | 598   | 0     | 1.64   |
 | Corsair   | Force GT           | 180 GB | 2       | 594   | 0     | 1.63   |
 | Corsair   | Force GT           | 90 GB  | 4       | 610   | 1     | 1.36   |
 | Corsair   | Performance Pro    | 128 GB | 1       | 450   | 0     | 1.23   |
 | Corsair   | Force GT           | 64 GB  | 5       | 690   | 7     | 1.21   |
-| Corsair   | Force 3 SSD        | 90 GB  | 4       | 304   | 0     | 0.83   |
+| Corsair   | Force 3 SSD        | 90 GB  | 4       | 307   | 0     | 0.84   |
 | Corsair   | Force GS           | 240 GB | 3       | 1272  | 6     | 0.70   |
 | Corsair   | Force GS           | 128 GB | 14      | 256   | 0     | 0.70   |
 | Corsair   | CSSD-V64GB2        | 64 GB  | 1       | 243   | 0     | 0.67   |
@@ -70,6 +70,6 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Corsair   | SandForce Driven SSDs  | 19     | 96      | 565   | 99    | 1.15   |
+| Corsair   | SandForce Driven SSDs  | 19     | 96      | 576   | 99    | 1.18   |
 | Corsair   | Indilinx Barefoot b... | 2      | 2       | 171   | 2     | 0.37   |
 | Corsair   | Unknown                | 12     | 17      | 341   | 43    | 0.31   |

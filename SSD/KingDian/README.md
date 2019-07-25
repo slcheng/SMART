@@ -31,10 +31,10 @@ Rating — avg. rating per sample.
 | KingDian  | S180               | 64 GB  | 10      | 28    | 114   | 0.06   |
 | KingDian  | S280               | 240 GB | 7       | 20    | 0     | 0.06   |
 | KingDian  | S280               | 120 GB | 4       | 20    | 0     | 0.06   |
+| KingDian  | S280-120GB         | 120 GB | 2       | 9     | 0     | 0.03   |
 | KingDian  | S280               | 480 GB | 1       | 9     | 0     | 0.02   |
 | KingDian  | N400 60G           | 64 GB  | 1       | 8     | 0     | 0.02   |
 | KingDian  | S200               | 64 GB  | 4       | 6     | 0     | 0.02   |
-| KingDian  | S280-120GB         | 120 GB | 2       | 2     | 0     | 0.01   |
 | KingDian  | S180               | 120 GB | 1       | 0     | 0     | 0.00   |
 
 SSD by Family
@@ -51,4 +51,4 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | KingDian  | SiliconMotion based... | 2      | 7       | 109   | 0     | 0.30   |
-| KingDian  | Unknown                | 11     | 40      | 28    | 29    | 0.07   |
+| KingDian  | Unknown                | 11     | 40      | 28    | 29    | 0.08   |
