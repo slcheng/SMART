@@ -31,7 +31,7 @@ Rating — avg. rating per sample.
 | SK hynix  | HFS128G32MND-3210A | 128 GB | 1       | 135   | 0     | 0.37   |
 | SK hynix  | SC311 SATA         | 512 GB | 2       | 85    | 0     | 0.23   |
 | SK hynix  | SC308 SATA         | 128 GB | 2       | 80    | 0     | 0.22   |
-| SK hynix  | SC308 SATA         | 256 GB | 2       | 50    | 0     | 0.14   |
+| SK hynix  | SC308 SATA         | 256 GB | 2       | 66    | 0     | 0.18   |
 | SK hynix  | HFS128G32MND-3212A | 128 GB | 1       | 48    | 0     | 0.13   |
 | SK hynix  | HFS128G39MNC-3510A | 128 GB | 1       | 30    | 0     | 0.08   |
 | SK hynix  | HFS128G39TND-N210A | 128 GB | 9       | 29    | 0     | 0.08   |
@@ -40,13 +40,13 @@ Rating — avg. rating per sample.
 | SK hynix  | HFS256G39TND-N210A | 256 GB | 2       | 17    | 0     | 0.05   |
 | SK hynix  | SH920 mSATA        | 256 GB | 1       | 680   | 52    | 0.04   |
 | SK hynix  | HFS128G3BTND-N210A | 128 GB | 1       | 9     | 0     | 0.02   |
+| SK hynix  | SC210 2.5 7MM      | 128 GB | 1       | 8     | 0     | 0.02   |
 | SK hynix  | SC311 SATA         | 128 GB | 3       | 7     | 0     | 0.02   |
+| SK hynix  | SC210 mSATA        | 128 GB | 2       | 122   | 32    | 0.02   |
 | SK hynix  | SC210 mSATA        | 256 GB | 2       | 195   | 28    | 0.02   |
-| SK hynix  | SC210 mSATA        | 128 GB | 2       | 105   | 32    | 0.01   |
 | SK hynix  | SH920 2.5 7MM      | 128 GB | 1       | 54    | 25    | 0.01   |
 | SK hynix  | HFS256G32MND-2200A | 256 GB | 1       | 225   | 153   | 0.00   |
 | SK hynix  | SC210 2.5 7MM      | 256 GB | 1       | 684   | 704   | 0.00   |
-| SK hynix  | SC210 2.5 7MM      | 128 GB | 1       | 0     | 0     | 0.00   |
 | SK hynix  | HFS060G32MNM-1010U | 64 GB  | 1       | 822   | 1016  | 0.00   |
 | SK hynix  | HFS128G38MNB-2200A | 128 GB | 2       | 41    | 120   | 0.00   |
 | SK hynix  | HFS128G39TNF-N3A0A | 128 GB | 1       | 0     | 0     | 0.00   |
@@ -65,4 +65,4 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | SK hynix  | Unknown                | 15     | 20      | 200   | 68    | 0.26   |
-| SK hynix  | SATA SSDs              | 12     | 25      | 120   | 40    | 0.17   |
+| SK hynix  | SATA SSDs              | 12     | 25      | 123   | 40    | 0.17   |

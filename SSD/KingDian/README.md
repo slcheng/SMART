@@ -24,17 +24,17 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | KingDian  | S400 XT            | 240 GB | 1       | 177   | 0     | 0.49   |
-| KingDian  | S400               | 120 GB | 6       | 114   | 0     | 0.31   |
+| KingDian  | S400               | 120 GB | 6       | 115   | 0     | 0.32   |
 | KingDian  | S400               | 480 GB | 1       | 73    | 0     | 0.20   |
 | KingDian  | S200               | 120 GB | 2       | 49    | 0     | 0.13   |
 | KingDian  | S280-240GB         | 240 GB | 7       | 43    | 0     | 0.12   |
-| KingDian  | S180               | 64 GB  | 10      | 27    | 114   | 0.06   |
-| KingDian  | S280               | 120 GB | 4       | 20    | 0     | 0.05   |
-| KingDian  | S280               | 240 GB | 7       | 19    | 0     | 0.05   |
+| KingDian  | S180               | 64 GB  | 10      | 28    | 114   | 0.06   |
+| KingDian  | S280               | 240 GB | 7       | 20    | 0     | 0.06   |
+| KingDian  | S280               | 120 GB | 4       | 20    | 0     | 0.06   |
 | KingDian  | S280               | 480 GB | 1       | 9     | 0     | 0.02   |
 | KingDian  | N400 60G           | 64 GB  | 1       | 8     | 0     | 0.02   |
-| KingDian  | S200               | 64 GB  | 3       | 5     | 0     | 0.01   |
-| KingDian  | S280-120GB         | 120 GB | 2       | 1     | 0     | 0.00   |
+| KingDian  | S200               | 64 GB  | 4       | 6     | 0     | 0.02   |
+| KingDian  | S280-120GB         | 120 GB | 2       | 2     | 0     | 0.01   |
 | KingDian  | S180               | 120 GB | 1       | 0     | 0     | 0.00   |
 
 SSD by Family
@@ -51,4 +51,4 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | KingDian  | SiliconMotion based... | 2      | 7       | 109   | 0     | 0.30   |
-| KingDian  | Unknown                | 11     | 39      | 28    | 30    | 0.07   |
+| KingDian  | Unknown                | 11     | 40      | 28    | 29    | 0.07   |

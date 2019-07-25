@@ -27,18 +27,19 @@ Rating — avg. rating per sample.
 | Transcend | TS128GSSD340       | 128 GB | 4       | 283   | 0     | 0.78   |
 | Transcend | TS128GSSD720       | 128 GB | 2       | 187   | 0     | 0.51   |
 | Transcend | TS256GMTS400       | 256 GB | 3       | 132   | 0     | 0.36   |
+| Transcend | TS128GMSA740       | 128 GB | 1       | 122   | 0     | 0.34   |
 | Transcend | TS128GMTS400S      | 128 GB | 1       | 113   | 0     | 0.31   |
-| Transcend | TS128GMSA740       | 128 GB | 1       | 106   | 0     | 0.29   |
 | Transcend | TS120GSSD25D-M     | 128 GB | 1       | 309   | 2     | 0.28   |
 | Transcend | TS256GSSD320       | 256 GB | 2       | 84    | 0     | 0.23   |
+| Transcend | TS256GSSD340       | 256 GB | 2       | 76    | 0     | 0.21   |
 | Transcend | TS256GMTS800       | 256 GB | 2       | 69    | 0     | 0.19   |
-| Transcend | TS256GSSD340       | 256 GB | 2       | 65    | 0     | 0.18   |
 | Transcend | TS64GMSA370        | 64 GB  | 2       | 65    | 0     | 0.18   |
 | Transcend | TS128GSSD370       | 128 GB | 6       | 63    | 0     | 0.17   |
 | Transcend | TS64GSSD340        | 64 GB  | 1       | 54    | 0     | 0.15   |
+| Transcend | TS256GSSD230S      | 256 GB | 1       | 48    | 0     | 0.13   |
 | Transcend | TS256GMTS430S      | 256 GB | 2       | 36    | 0     | 0.10   |
 | Transcend | TS128GMTS400       | 128 GB | 1       | 29    | 0     | 0.08   |
-| Transcend | TS128GSSD370S      | 128 GB | 14      | 27    | 0     | 0.08   |
+| Transcend | TS128GSSD370S      | 128 GB | 14      | 28    | 0     | 0.08   |
 | Transcend | TS64GSSD720        | 64 GB  | 1       | 26    | 0     | 0.07   |
 | Transcend | TS64GSSD320        | 64 GB  | 1       | 26    | 0     | 0.07   |
 | Transcend | TS240GSSD220S      | 240 GB | 4       | 25    | 0     | 0.07   |
@@ -52,7 +53,6 @@ Rating — avg. rating per sample.
 | Transcend | TS512GMSA370       | 512 GB | 1       | 12    | 0     | 0.03   |
 | Transcend | TS128GMTS800       | 128 GB | 3       | 7     | 0     | 0.02   |
 | Transcend | TS240GMTS820S      | 240 GB | 1       | 6     | 0     | 0.02   |
-| Transcend | TS256GSSD230S      | 256 GB | 1       | 6     | 0     | 0.02   |
 | Transcend | TS256GSSD360S      | 256 GB | 2       | 2     | 0     | 0.01   |
 | Transcend | TS64GSSD370        | 64 GB  | 2       | 2     | 0     | 0.01   |
 | Transcend | TS64GMTS800        | 64 GB  | 1       | 2     | 0     | 0.01   |
@@ -75,7 +75,7 @@ Rating — avg. rating per sample.
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Transcend | SandForce Driven SSDs  | 5      | 7       | 155   | 0     | 0.43   |
-| Transcend | JMicron based SSDs     | 6      | 11      | 139   | 92    | 0.36   |
+| Transcend | JMicron based SSDs     | 6      | 11      | 142   | 92    | 0.37   |
 | Transcend | Indilinx Barefoot b... | 1      | 1       | 309   | 2     | 0.28   |
-| Transcend | SiliconMotion based... | 19     | 60      | 34    | 0     | 0.09   |
+| Transcend | SiliconMotion based... | 19     | 60      | 35    | 0     | 0.10   |
 | Transcend | Unknown                | 6      | 13      | 13    | 0     | 0.04   |

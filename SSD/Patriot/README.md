@@ -20,12 +20,12 @@ Rating — avg. rating per sample.
 | Patriot   | Torch LE           | 240 GB | 1       | 558   | 0     | 1.53   |
 | Patriot   | Blaze              | 240 GB | 2       | 231   | 0     | 0.63   |
 | Patriot   | Flare              | 64 GB  | 1       | 157   | 0     | 0.43   |
-| Patriot   | Blast              | 120 GB | 4       | 142   | 0     | 0.39   |
+| Patriot   | Blast              | 120 GB | 4       | 152   | 0     | 0.42   |
+| Patriot   | Spark              | 128 GB | 6       | 142   | 0     | 0.39   |
 | Patriot   | Blast              | 240 GB | 4       | 141   | 0     | 0.39   |
-| Patriot   | Spark              | 128 GB | 6       | 103   | 0     | 0.28   |
 | Patriot   | Blaze              | 64 GB  | 4       | 86    | 0     | 0.24   |
+| Patriot   | Burst              | 480 GB | 3       | 39    | 0     | 0.11   |
 | Patriot   | Burst              | 240 GB | 3       | 34    | 0     | 0.10   |
-| Patriot   | Burst              | 480 GB | 3       | 29    | 0     | 0.08   |
 | Patriot   | Spark              | 256 GB | 2       | 28    | 0     | 0.08   |
 | Patriot   | Blaze              | 120 GB | 3       | 9     | 0     | 0.03   |
 | Patriot   | Ignite             | 240 GB | 1       | 6     | 0     | 0.02   |
