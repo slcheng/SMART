@@ -53,7 +53,7 @@ Rating — avg. rating per sample.
 | OCZ       | VERTEX3            | 240 GB | 7       | 448   | 6     | 1.07   |
 | OCZ       | VERTEX3 MI         | 120 GB | 15      | 452   | 134   | 1.02   |
 | OCZ       | VERTEX4            | 256 GB | 11      | 542   | 1     | 1.02   |
-| OCZ       | VERTEX3            | 90 GB  | 11      | 655   | 7     | 0.93   |
+| OCZ       | VERTEX3            | 90 GB  | 11      | 656   | 7     | 0.93   |
 | OCZ       | VERTEX4            | 64 GB  | 7       | 338   | 1     | 0.92   |
 | OCZ       | VERTEX PLUS R2     | 128 GB | 2       | 331   | 0     | 0.91   |
 | OCZ       | VERTEX3 LP         | 64 GB  | 1       | 320   | 0     | 0.88   |
@@ -70,8 +70,8 @@ Rating — avg. rating per sample.
 | OCZ       | VECTOR150          | 120 GB | 9       | 210   | 0     | 0.58   |
 | OCZ       | VERTEX2            | 50 GB  | 2       | 309   | 320   | 0.57   |
 | OCZ       | ARC100             | 480 GB | 2       | 197   | 1     | 0.53   |
+| OCZ       | VERTEX PLUS        | 64 GB  | 1       | 385   | 1     | 0.53   |
 | OCZ       | VERTEX4            | 512 GB | 1       | 573   | 2     | 0.52   |
-| OCZ       | VERTEX PLUS        | 64 GB  | 1       | 379   | 1     | 0.52   |
 | OCZ       | ARC100             | 120 GB | 8       | 146   | 0     | 0.40   |
 | OCZ       | AGILITY4           | 256 GB | 4       | 142   | 61    | 0.36   |
 | OCZ       | VECTOR150          | 240 GB | 2       | 127   | 0     | 0.35   |

@@ -38,8 +38,8 @@ Rating — avg. rating per sample.
 | SK hynix  | HFS512G39TNF-N3A0A | 512 GB | 1       | 25    | 0     | 0.07   |
 | SK hynix  | HFS256G32MND-2900A | 256 GB | 1       | 531   | 20    | 0.07   |
 | SK hynix  | HFS256G39TND-N210A | 256 GB | 2       | 17    | 0     | 0.05   |
+| SK hynix  | SC210 2.5 7MM      | 128 GB | 1       | 15    | 0     | 0.04   |
 | SK hynix  | SH920 mSATA        | 256 GB | 1       | 680   | 52    | 0.04   |
-| SK hynix  | SC210 2.5 7MM      | 128 GB | 1       | 12    | 0     | 0.03   |
 | SK hynix  | HFS128G3BTND-N210A | 128 GB | 1       | 9     | 0     | 0.02   |
 | SK hynix  | SC311 SATA         | 128 GB | 3       | 7     | 0     | 0.02   |
 | SK hynix  | SC210 mSATA        | 128 GB | 2       | 123   | 32    | 0.02   |
@@ -48,8 +48,8 @@ Rating — avg. rating per sample.
 | SK hynix  | HFS256G32MND-2200A | 256 GB | 1       | 225   | 153   | 0.00   |
 | SK hynix  | SC210 2.5 7MM      | 256 GB | 1       | 684   | 704   | 0.00   |
 | SK hynix  | HFS060G32MNM-1010U | 64 GB  | 1       | 822   | 1016  | 0.00   |
-| SK hynix  | HFS128G38MNB-2200A | 128 GB | 2       | 41    | 120   | 0.00   |
 | SK hynix  | HFS128G39TNF-N3A0A | 128 GB | 1       | 0     | 0     | 0.00   |
+| SK hynix  | HFS128G38MNB-2200A | 128 GB | 2       | 41    | 120   | 0.00   |
 
 SSD by Family
 -------------

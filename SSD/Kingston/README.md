@@ -68,8 +68,8 @@ Rating — avg. rating per sample.
 | Kingston  | SM2280S3G2120G     | 120 GB | 2       | 162   | 0     | 0.44   |
 | Kingston  | SMS200S3120G       | 120 GB | 7       | 162   | 110   | 0.42   |
 | Kingston  | SHSS37A120G        | 120 GB | 6       | 148   | 0     | 0.41   |
+| Kingston  | SV300S37A240G      | 240 GB | 52      | 134   | 1     | 0.37   |
 | Kingston  | SMS200S330G        | 32 GB  | 1       | 132   | 0     | 0.36   |
-| Kingston  | SV300S37A240G      | 240 GB | 52      | 129   | 1     | 0.35   |
 | Kingston  | SUV400S37240G      | 240 GB | 39      | 129   | 27    | 0.34   |
 | Kingston  | RBU-SNS8152S312... | 128 GB | 1       | 120   | 0     | 0.33   |
 | Kingston  | SHSS37A480G        | 480 GB | 5       | 119   | 0     | 0.33   |

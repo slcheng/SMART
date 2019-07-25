@@ -28,7 +28,7 @@ Rating — avg. rating per sample.
 | Goodram   | GOODRAM C40        | 120 GB | 3       | 266   | 0     | 0.73   |
 | Goodram   | GOODRAM C100       | 120 GB | 1       | 214   | 0     | 0.59   |
 | Goodram   | GOODRAM C50        | 64 GB  | 1       | 204   | 0     | 0.56   |
-| Goodram   | GOODRAM CX100      | 120 GB | 6       | 151   | 2     | 0.39   |
+| Goodram   | GOODRAM CX100      | 120 GB | 6       | 152   | 2     | 0.40   |
 | Goodram   | GOODRAM            | 120 GB | 17      | 126   | 0     | 0.35   |
 | Goodram   | GOODRAM IR-SSDP... | 120 GB | 2       | 59    | 0     | 0.16   |
 | Goodram   | GOODRAM IR-SSDP... | 240 GB | 1       | 44    | 0     | 0.12   |

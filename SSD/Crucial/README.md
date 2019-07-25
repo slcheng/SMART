@@ -36,7 +36,7 @@ Rating — avg. rating per sample.
 | Crucial   | C300-CTFDDAC064MAG | 64 GB  | 1       | 307   | 0     | 0.84   |
 | Crucial   | CT500MX200SSD1     | 500 GB | 6       | 260   | 0     | 0.71   |
 | Crucial   | CT512MX100SSD1     | 512 GB | 6       | 252   | 0     | 0.69   |
-| Crucial   | CT240M500SSD1      | 240 GB | 12      | 459   | 184   | 0.68   |
+| Crucial   | CT240M500SSD1      | 240 GB | 12      | 460   | 184   | 0.68   |
 | Crucial   | M4-CT128M4SSD3     | 128 GB | 1       | 238   | 0     | 0.65   |
 | Crucial   | CT240M500SSD3      | 240 GB | 3       | 342   | 11    | 0.65   |
 | Crucial   | CT120M500SSD1      | 120 GB | 9       | 436   | 8     | 0.63   |
@@ -45,7 +45,7 @@ Rating — avg. rating per sample.
 | Crucial   | CT2000MX500SSD1    | 2 TB   | 1       | 183   | 0     | 0.50   |
 | Crucial   | CT960M500SSD1      | 960 GB | 4       | 433   | 517   | 0.49   |
 | Crucial   | M4-CT512M4SSD1     | 512 GB | 1       | 161   | 0     | 0.44   |
-| Crucial   | CT250MX200SSD1     | 250 GB | 4       | 146   | 0     | 0.40   |
+| Crucial   | CT250MX200SSD1     | 250 GB | 4       | 159   | 0     | 0.44   |
 | Crucial   | CT750MX300SSD1     | 752 GB | 4       | 137   | 0     | 0.38   |
 | Crucial   | CT256M550SSD1      | 256 GB | 5       | 378   | 7     | 0.34   |
 | Crucial   | CT1024MX200SSD1    | 1 TB   | 1       | 116   | 0     | 0.32   |
@@ -91,8 +91,8 @@ Rating — avg. rating per sample.
 | Crucial   | RealSSD m4/C400/P400   | 2      | 10      | 651   | 0     | 1.78   |
 | Crucial   | MX100/MX200/M5x0/M6... | 7      | 27      | 349   | 82    | 0.72   |
 | Crucial   | MX100/M500/M510/M55... | 1      | 6       | 252   | 0     | 0.69   |
-| Crucial   | RealSSD C300/M500      | 6      | 29      | 411   | 80    | 0.67   |
-| Crucial   | MX1/2/300, M5/600, ... | 7      | 27      | 165   | 17    | 0.41   |
+| Crucial   | RealSSD C300/M500      | 6      | 29      | 412   | 80    | 0.67   |
+| Crucial   | MX1/2/300, M5/600, ... | 7      | 27      | 167   | 17    | 0.41   |
 | Crucial   | BX/MX1/2/3/500, M5/... | 17     | 51      | 93    | 1     | 0.25   |
 | Crucial   | SiliconMotion based... | 3      | 9       | 31    | 0     | 0.09   |
 | Crucial   | Unknown                | 1      | 1       | 11    | 0     | 0.03   |

@@ -77,5 +77,5 @@ Rating — avg. rating per sample.
 | Transcend | SandForce Driven SSDs  | 5      | 7       | 155   | 0     | 0.43   |
 | Transcend | JMicron based SSDs     | 6      | 11      | 148   | 92    | 0.39   |
 | Transcend | Indilinx Barefoot b... | 1      | 1       | 309   | 2     | 0.28   |
-| Transcend | SiliconMotion based... | 19     | 60      | 35    | 0     | 0.10   |
+| Transcend | SiliconMotion based... | 19     | 60      | 36    | 0     | 0.10   |
 | Transcend | Unknown                | 6      | 13      | 13    | 0     | 0.04   |
