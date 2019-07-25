@@ -2,13 +2,13 @@
 Device Model:     ADATA SP610
 Serial Number:    --
 Firmware Version: N0530C
-User Capacity:    256 060 514 304 bytes [256 GB]
+User Capacity:    256,060,514,304 bytes [256 GB]
 Sector Size:      512 bytes logical/physical
 Rotation Rate:    Solid State Device
 Device is:        Not in smartctl database [for details use: -P showall]
 ATA Version is:   ACS-2 (minor revision not indicated)
-SATA Version is:  SATA 3.1, 6.0 Gb/s (current: 6.0 Gb/s)
-Local Time is:    Tue Apr  4 12:23:56 2017 MSK
+SATA Version is:  SATA 3.1, 6.0 Gb/s (current: 3.0 Gb/s)
+Local Time is:    Thu Mar 29 08:43:28 2018 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Disabled
@@ -55,29 +55,29 @@ Vendor Specific SMART Attributes with Thresholds:
 ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
   1 Raw_Read_Error_Rate     ------   100   100   000    -    0
   5 Reallocated_Sector_Ct   ------   100   100   000    -    0
-  9 Power_On_Hours          ------   100   100   000    -    82
- 12 Power_Cycle_Count       ------   100   100   000    -    253
-192 Power-Off_Retract_Count ------   100   100   000    -    37
+  9 Power_On_Hours          ------   100   100   000    -    439
+ 12 Power_Cycle_Count       ------   100   100   000    -    1314
+192 Power-Off_Retract_Count ------   100   100   000    -    187
 194 Temperature_Celsius     ------   100   100   000    -    35
-195 Hardware_ECC_Recovered  ------   100   100   000    -    39372
+195 Hardware_ECC_Recovered  ------   100   100   000    -    894436
 196 Reallocated_Event_Count ------   100   100   016    -    0
 197 Current_Pending_Sector  ------   100   100   000    -    0
-199 UDMA_CRC_Error_Count    ------   100   100   050    -    16
+199 UDMA_CRC_Error_Count    ------   100   100   050    -    15827
 160 Unknown_Attribute       ------   100   100   000    -    0
 161 Unknown_Attribute       ------   100   100   000    -    46
 163 Unknown_Attribute       ------   100   100   000    -    24
-164 Unknown_Attribute       ------   100   100   000    -    10846
-165 Unknown_Attribute       ------   100   100   000    -    36
-166 Unknown_Attribute       ------   100   100   000    -    0
-167 Unknown_Attribute       ------   100   100   000    -    10
+164 Unknown_Attribute       ------   100   100   000    -    47273
+165 Unknown_Attribute       ------   100   100   000    -    84
+166 Unknown_Attribute       ------   100   100   000    -    2
+167 Unknown_Attribute       ------   100   100   000    -    46
 168 Unknown_Attribute       ------   100   100   000    -    3000
 169 Unknown_Attribute       ------   100   100   000    -    100
 232 Available_Reservd_Space ------   100   100   000    -    100
 177 Wear_Leveling_Count     ------   100   100   050    -    0
 181 Program_Fail_Cnt_Total  ------   100   100   000    -    0
 182 Erase_Fail_Count_Total  ------   100   100   000    -    0
-241 Total_LBAs_Written      ------   100   100   000    -    40164
-242 Total_LBAs_Read         ------   100   100   000    -    39006
+241 Total_LBAs_Written      ------   100   100   000    -    155976
+242 Total_LBAs_Read         ------   100   100   000    -    166964
                             ||||||_ K auto-keep
                             |||||__ C event count
                             ||||___ R error rate
@@ -104,7 +104,7 @@ SMART Extended Comprehensive Error Log Version: 1 (1 sectors)
 No Errors Logged
 
 SMART Extended Self-test Log Version: 1 (1 sectors)
-Invalid Self-test Log index = 0x1603 (reserved = 0x00)
+Invalid Self-test Log index = 0x1607 (reserved = 0x00)
 SMART Selective self-test log data structure revision number 1
  SPAN  MIN_LBA  MAX_LBA  CURRENT_TEST_STATUS
     1        0        0  Not_testing
@@ -121,26 +121,28 @@ SCT Commands not supported
 Device Statistics (GP Log 0x04)
 Page  Offset Size        Value Flags Description
 0x01  =====  =               =  ===  == General Statistics (rev 2) ==
-0x01  0x008  4             253  ---  Lifetime Power-On Resets
-0x01  0x010  4              82  ---  Power-on Hours
-0x01  0x018  6      2632221403  ---  Logical Sectors Written
-0x01  0x020  6        31328693  ---  Number of Write Commands
-0x01  0x028  6      2556326223  ---  Logical Sectors Read
-0x01  0x030  6        29189490  ---  Number of Read Commands
+0x01  0x008  4            1314  ---  Lifetime Power-On Resets
+0x01  0x010  4             439  ---  Power-on Hours
+0x01  0x018  6      1632108714  ---  Logical Sectors Written
+0x01  0x020  6       136183536  ---  Number of Write Commands
+0x01  0x028  6      2352280932  ---  Logical Sectors Read
+0x01  0x030  6       147617178  ---  Number of Read Commands
 0x02  =====  =               =  ===  == Free-Fall Statistics (empty) ==
 0x03  =====  =               =  ===  == Rotating Media Statistics (empty) ==
 0x04  =====  =               =  ===  == General Errors Statistics (rev 1) ==
 0x04  0x008  4               0  ---  Number of Reported Uncorrectable Errors
-0x04  0x010  4              42  ---  Resets Between Cmd Acceptance and Completion
+0x04  0x010  4             204  ---  Resets Between Cmd Acceptance and Completion
 0x05  =====  =               =  ===  == Temperature Statistics (empty) ==
 0x06  =====  =               =  ===  == Transport Statistics (rev 1) ==
-0x06  0x008  4            2601  ---  Number of Hardware Resets
-0x06  0x018  4              16  ---  Number of Interface CRC Errors
+0x06  0x008  4           14634  ---  Number of Hardware Resets
+0x06  0x018  4           15827  ---  Number of Interface CRC Errors
 0x07  =====  =               =  ===  == Solid State Device Statistics (rev 1) ==
-0x07  0x008  1               0  ---  Percentage Used Endurance Indicator
+0x07  0x008  1               1  ---  Percentage Used Endurance Indicator
                                 |||_ C monitored condition met
                                 ||__ D supports DSN
                                 |___ N normalized value
 
 SATA Phy Event Counters (GP Log 0x11) not supported
+
+
 
