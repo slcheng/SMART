@@ -17,4 +17,4 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| XUNZHE    | XUNZHE XUNZHE80... | 120 GB | 1       | 14    | 0     | 0.04   |
+| XUNZHE    | XUNZHE XUNZHE80... | 120 GB | 1       | 15    | 0     | 0.04   |

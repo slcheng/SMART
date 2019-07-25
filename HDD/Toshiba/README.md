@@ -86,19 +86,19 @@ Rating — avg. rating per sample.
 | Toshiba   | MG03ACA100         | 1 TB   | 8       | 165   | 1     | 0.39   |
 | Toshiba   | HDWA120            | 2 TB   | 3       | 138   | 0     | 0.38   |
 | Toshiba   | MK8037GSX          | 80 GB  | 15      | 456   | 158   | 0.37   |
+| Toshiba   | HDWD110            | 1 TB   | 74      | 140   | 7     | 0.37   |
 | Toshiba   | HDWD120            | 2 TB   | 11      | 135   | 0     | 0.37   |
-| Toshiba   | HDWD110            | 1 TB   | 74      | 139   | 7     | 0.37   |
 | Toshiba   | MK7575GSX          | 752 GB | 17      | 507   | 585   | 0.37   |
 | Toshiba   | MK5076GSX -63      | 500 GB | 2       | 134   | 0     | 0.37   |
 | Toshiba   | MK6475GSX          | 640 GB | 17      | 298   | 395   | 0.37   |
-| Toshiba   | MQ01ABF032         | 320 GB | 17      | 177   | 61    | 0.36   |
-| Toshiba   | MK7559GSXP         | 752 GB | 13      | 428   | 411   | 0.36   |
+| Toshiba   | MQ01ABF032         | 320 GB | 17      | 179   | 61    | 0.36   |
 | Toshiba   | MQ01ABD050         | 500 GB | 82      | 300   | 327   | 0.36   |
+| Toshiba   | MK7559GSXP         | 752 GB | 13      | 428   | 411   | 0.36   |
 | Toshiba   | MQ01ACF050         | 500 GB | 6       | 157   | 173   | 0.36   |
 | Toshiba   | MK1034GSX          | 100 GB | 4       | 418   | 464   | 0.35   |
 | Toshiba   | MK1216GSG          | 120 GB | 3       | 272   | 4     | 0.34   |
 | Toshiba   | MK3252GSX          | 320 GB | 16      | 573   | 246   | 0.34   |
-| Toshiba   | MK3259GSXP         | 320 GB | 42      | 289   | 122   | 0.33   |
+| Toshiba   | MK3259GSXP         | 320 GB | 42      | 291   | 122   | 0.33   |
 | Toshiba   | MK6025GAS          | 64 GB  | 2       | 166   | 9     | 0.33   |
 | Toshiba   | MK1633GSG          | 160 GB | 2       | 116   | 0     | 0.32   |
 | Toshiba   | MK2546GSX          | 250 GB | 12      | 520   | 41    | 0.32   |
@@ -108,9 +108,9 @@ Rating — avg. rating per sample.
 | Toshiba   | MK8034GSX          | 80 GB  | 8       | 324   | 38    | 0.30   |
 | Toshiba   | MK1637GSX          | 160 GB | 26      | 517   | 59    | 0.30   |
 | Toshiba   | MK3276GSX -63      | 320 GB | 5       | 178   | 1     | 0.29   |
+| Toshiba   | HDWD130            | 3 TB   | 5       | 106   | 0     | 0.29   |
 | Toshiba   | MD04ACA500         | 5 TB   | 2       | 105   | 0     | 0.29   |
 | Toshiba   | MK1059GSMP         | 1 TB   | 12      | 472   | 308   | 0.29   |
-| Toshiba   | HDWD130            | 3 TB   | 5       | 104   | 0     | 0.29   |
 | Toshiba   | MK6006GAH          | 64 GB  | 1       | 103   | 0     | 0.28   |
 | Toshiba   | HDWN180            | 8 TB   | 2       | 99    | 0     | 0.27   |
 | Toshiba   | MG04ACA200E        | 2 TB   | 3       | 105   | 3     | 0.27   |
@@ -169,7 +169,7 @@ Rating — avg. rating per sample.
 | Toshiba   | MK8052GSX          | 80 GB  | 3       | 180   | 58    | 0.02   |
 | Toshiba   | MQ02ABF050H-SSH... | 500 GB | 1       | 5     | 0     | 0.01   |
 | Toshiba   | MK2576GSX          | 250 GB | 1       | 4     | 0     | 0.01   |
-| Toshiba   | MK5061GSYN         | 500 GB | 11      | 102   | 278   | 0.01   |
+| Toshiba   | MK5061GSYN         | 500 GB | 11      | 103   | 278   | 0.01   |
 | Toshiba   | MK7559GSXF         | 752 GB | 2       | 117   | 637   | 0.01   |
 | Toshiba   | MK6459GSX          | 640 GB | 4       | 481   | 839   | 0.01   |
 | Toshiba   | MK3259GSX          | 320 GB | 1       | 192   | 82    | 0.01   |
@@ -227,16 +227,16 @@ Rating — avg. rating per sample.
 | Toshiba   | Enterprise Surveill... | 1      | 1       | 1037  | 6     | 0.41   |
 | Toshiba   | 2.5" HDD MK..63GSX     | 2      | 12      | 583   | 23    | 0.39   |
 | Toshiba   | 2.5" HDD MK..75GSX     | 4      | 55      | 361   | 397   | 0.38   |
-| Toshiba   | 2.5" HDD MK..59GSXP    | 7      | 93      | 360   | 303   | 0.38   |
+| Toshiba   | 2.5" HDD MK..59GSXP    | 7      | 93      | 361   | 303   | 0.38   |
 | Toshiba   | 2.5" HDD MK..37GSX     | 1      | 15      | 456   | 158   | 0.37   |
 | Toshiba   | 2.5" HDD MK..55GSX     | 5      | 48      | 385   | 82    | 0.36   |
 | Toshiba   | 1.8" HDD MK..16GSG     | 1      | 3       | 272   | 4     | 0.34   |
 | Toshiba   | 1.8" HDD               | 4      | 7       | 292   | 17    | 0.34   |
 | Toshiba   | 2.5" HDD MK..34GSX     | 2      | 12      | 356   | 180   | 0.32   |
+| Toshiba   | 2.5" HDD MQ01ABF       | 2      | 21      | 153   | 49    | 0.32   |
 | Toshiba   | P300                   | 4      | 133     | 120   | 19    | 0.32   |
-| Toshiba   | 2.5" HDD L200          | 2      | 7       | 115   | 0     | 0.32   |
 | Toshiba   | 2.5" HDD MQ01ABF       | 1      | 210     | 138   | 86    | 0.32   |
-| Toshiba   | 2.5" HDD MQ01ABF       | 2      | 21      | 152   | 49    | 0.31   |
+| Toshiba   | 2.5" HDD L200          | 2      | 7       | 115   | 0     | 0.32   |
 | Toshiba   | N300                   | 2      | 3       | 113   | 0     | 0.31   |
 | Toshiba   | 2.5" HDD MK..76GSX     | 6      | 13      | 150   | 139   | 0.31   |
 | Toshiba   | 2.5" HDD MQ01ACF       | 2      | 7       | 135   | 149   | 0.31   |

@@ -41,8 +41,8 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS5C3030ALA630    | 3 TB   | 2       | 1454  | 1     | 2.60   |
 | Hitachi   | HDS5C3015ALA632    | 1.5 TB | 2       | 1186  | 160   | 2.51   |
 | Hitachi   | HDT722520DLA380    | 200 GB | 4       | 1091  | 2     | 2.40   |
+| Hitachi   | HTS545032B9SA00    | 320 GB | 4       | 1001  | 516   | 2.35   |
 | Hitachi   | HCS5C1050CLA382    | 500 GB | 1       | 848   | 0     | 2.33   |
-| Hitachi   | HTS545032B9SA00    | 320 GB | 4       | 980   | 516   | 2.29   |
 | Hitachi   | HDS728040PLAT20    | 41 GB  | 5       | 979   | 1     | 2.25   |
 | Hitachi   | HDT725050VLA380    | 500 GB | 2       | 1307  | 19    | 2.24   |
 | Hitachi   | HTS723232L9SA62    | 320 GB | 1       | 804   | 0     | 2.20   |
@@ -75,7 +75,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS721050CLA362    | 500 GB | 106     | 651   | 12    | 1.28   |
 | Hitachi   | HDT721010SLA360    | 1 TB   | 22      | 1069  | 18    | 1.28   |
 | Hitachi   | HDT721064SLA380    | 640 GB | 1       | 464   | 0     | 1.27   |
-| Hitachi   | HDS721616PLA380    | 160 GB | 74      | 867   | 90    | 1.25   |
+| Hitachi   | HDS721616PLA380    | 160 GB | 74      | 868   | 90    | 1.26   |
 | Hitachi   | HTS725050A9A362    | 500 GB | 2       | 457   | 0     | 1.25   |
 | Hitachi   | HDP725050GLA360    | 500 GB | 67      | 933   | 38    | 1.24   |
 | Hitachi   | HTS541610J9SA00    | 100 GB | 2       | 453   | 0     | 1.24   |
@@ -85,7 +85,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDP725025GLA380    | 250 GB | 30      | 830   | 89    | 1.18   |
 | Hitachi   | HTS543216A7A384    | 160 GB | 2       | 430   | 0     | 1.18   |
 | Hitachi   | HTE545025B9A300    | 250 GB | 1       | 430   | 0     | 1.18   |
-| Hitachi   | HDP725040GLA360    | 400 GB | 3       | 1051  | 5     | 1.13   |
+| Hitachi   | HDP725040GLA360    | 400 GB | 3       | 1053  | 5     | 1.13   |
 | Hitachi   | HDS721010CLA330    | 1 TB   | 31      | 625   | 39    | 1.13   |
 | Hitachi   | HUA722010CLA330    | 1 TB   | 10      | 553   | 98    | 1.12   |
 | Hitachi   | HDS721032CLA362    | 320 GB | 36      | 749   | 28    | 1.11   |
@@ -114,7 +114,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS542516K9A300    | 160 GB | 6       | 790   | 220   | 0.71   |
 | Hitachi   | HDT721032SLA380    | 320 GB | 5       | 581   | 468   | 0.70   |
 | Hitachi   | HTS545032B9SA02    | 320 GB | 2       | 840   | 30    | 0.70   |
-| Hitachi   | HTS547575A9E384    | 640 GB | 83      | 432   | 439   | 0.69   |
+| Hitachi   | HTS547575A9E384    | 640 GB | 83      | 433   | 439   | 0.69   |
 | Hitachi   | HDS721010CLA632    | 1 TB   | 1       | 251   | 0     | 0.69   |
 | Hitachi   | HCT721016SLA380    | 160 GB | 3       | 246   | 0     | 0.67   |
 | Hitachi   | HDT722516DLA380    | 164 GB | 8       | 845   | 72    | 0.67   |
@@ -130,7 +130,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDT721025SLA380    | 250 GB | 9       | 770   | 117   | 0.58   |
 | Hitachi   | HTS541080G9SA00    | 80 GB  | 6       | 376   | 4     | 0.57   |
 | Hitachi   | HTS723232L9SA60    | 320 GB | 2       | 292   | 4     | 0.56   |
-| Hitachi   | HTS545032A7E380    | 320 GB | 18      | 280   | 117   | 0.55   |
+| Hitachi   | HTS545032A7E380    | 320 GB | 18      | 281   | 117   | 0.56   |
 | Hitachi   | HDS721612PLAT80    | 128 GB | 1       | 1366  | 6     | 0.53   |
 | Hitachi   | HTS543232L9A300    | 320 GB | 15      | 644   | 513   | 0.53   |
 | Hitachi   | HTS545050A7E380    | 500 GB | 86      | 332   | 126   | 0.53   |
@@ -146,7 +146,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS721010DLE630    | 1 TB   | 28      | 635   | 598   | 0.45   |
 | Hitachi   | HTS541616J9SA00    | 160 GB | 26      | 464   | 82    | 0.44   |
 | Hitachi   | HTS727575A9E364    | 752 GB | 13      | 408   | 102   | 0.44   |
-| Hitachi   | HDS722512VLAT20    | 128 GB | 1       | 798   | 4     | 0.44   |
+| Hitachi   | HDS722512VLAT20    | 128 GB | 1       | 800   | 4     | 0.44   |
 | Hitachi   | HTS541075A9E680    | 752 GB | 4       | 325   | 764   | 0.43   |
 | Hitachi   | HDP725032GLA380    | 320 GB | 5       | 880   | 41    | 0.43   |
 | Hitachi   | HTS543232A7A384    | 320 GB | 139     | 287   | 297   | 0.42   |
@@ -188,8 +188,8 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS424040M9AT00    | 40 GB  | 6       | 456   | 186   | 0.14   |
 | Hitachi   | HTS722010K9SA00    | 100 GB | 1       | 468   | 8     | 0.14   |
 | Hitachi   | HTS421210H9AT00    | 100 GB | 1       | 568   | 11    | 0.13   |
+| Hitachi   | HTS542512K9A300    | 120 GB | 3       | 387   | 6     | 0.13   |
 | Hitachi   | HTS541660J9AT00    | 64 GB  | 1       | 184   | 3     | 0.13   |
-| Hitachi   | HTS542512K9A300    | 120 GB | 3       | 366   | 6     | 0.13   |
 | Hitachi   | HTS543225L9SA00    | 250 GB | 4       | 560   | 49    | 0.12   |
 | Hitachi   | HDP725025GLAT80    | 250 GB | 1       | 216   | 4     | 0.12   |
 | Hitachi   | HTS545050B9SA00    | 500 GB | 6       | 844   | 842   | 0.11   |
