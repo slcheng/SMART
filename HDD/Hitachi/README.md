@@ -40,8 +40,8 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS5C1010CLA382    | 1 TB   | 7       | 954   | 0     | 2.61   |
 | Hitachi   | HDS5C3030ALA630    | 3 TB   | 2       | 1454  | 1     | 2.60   |
 | Hitachi   | HDS5C3015ALA632    | 1.5 TB | 2       | 1186  | 160   | 2.51   |
+| Hitachi   | HTS545032B9SA00    | 320 GB | 4       | 1033  | 516   | 2.44   |
 | Hitachi   | HDT722520DLA380    | 200 GB | 4       | 1091  | 2     | 2.40   |
-| Hitachi   | HTS545032B9SA00    | 320 GB | 4       | 1004  | 516   | 2.36   |
 | Hitachi   | HCS5C1050CLA382    | 500 GB | 1       | 848   | 0     | 2.33   |
 | Hitachi   | HDS728040PLAT20    | 41 GB  | 5       | 979   | 1     | 2.25   |
 | Hitachi   | HDT725050VLA380    | 500 GB | 2       | 1307  | 19    | 2.24   |
@@ -109,7 +109,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDP725050GLAT80    | 500 GB | 1       | 278   | 0     | 0.76   |
 | Hitachi   | HTS545032B9A300    | 320 GB | 81      | 466   | 126   | 0.75   |
 | Hitachi   | HUA721010KLA330    | 1 TB   | 2       | 272   | 0     | 0.75   |
-| Hitachi   | HTS543225L9A300    | 250 GB | 20      | 681   | 282   | 0.73   |
+| Hitachi   | HTS543225L9A300    | 250 GB | 20      | 682   | 282   | 0.73   |
 | Hitachi   | HTS545025B9A300    | 250 GB | 88      | 498   | 141   | 0.71   |
 | Hitachi   | HTS542516K9A300    | 160 GB | 6       | 790   | 220   | 0.71   |
 | Hitachi   | HDT721032SLA380    | 320 GB | 5       | 581   | 468   | 0.70   |
@@ -123,14 +123,14 @@ Rating — avg. rating per sample.
 | Hitachi   | HTS725050A7E630    | 500 GB | 8       | 375   | 670   | 0.65   |
 | Hitachi   | HTS547564A9E384    | 640 GB | 28      | 518   | 493   | 0.65   |
 | Hitachi   | HTS725016A9A364    | 160 GB | 8       | 301   | 383   | 0.63   |
-| Hitachi   | HTS545016B9A300    | 160 GB | 35      | 333   | 65    | 0.62   |
+| Hitachi   | HTS545016B9A300    | 160 GB | 35      | 334   | 65    | 0.62   |
 | Hitachi   | HTS542516K9SA00    | 160 GB | 37      | 591   | 180   | 0.60   |
 | Hitachi   | HDS721050DLE630    | 500 GB | 32      | 495   | 372   | 0.59   |
 | Hitachi   | HDS721010KLA330    | 1 TB   | 5       | 575   | 10    | 0.59   |
 | Hitachi   | HDT721025SLA380    | 250 GB | 9       | 770   | 117   | 0.58   |
+| Hitachi   | HTS545032A7E380    | 320 GB | 18      | 288   | 117   | 0.58   |
 | Hitachi   | HTS541080G9SA00    | 80 GB  | 6       | 376   | 4     | 0.57   |
 | Hitachi   | HTS723232L9SA60    | 320 GB | 2       | 292   | 4     | 0.56   |
-| Hitachi   | HTS545032A7E380    | 320 GB | 18      | 281   | 117   | 0.56   |
 | Hitachi   | HDS721612PLAT80    | 128 GB | 1       | 1366  | 6     | 0.53   |
 | Hitachi   | HTS543232L9A300    | 320 GB | 15      | 644   | 513   | 0.53   |
 | Hitachi   | HTS545050A7E380    | 500 GB | 86      | 332   | 126   | 0.53   |
@@ -146,7 +146,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS721010DLE630    | 1 TB   | 28      | 635   | 598   | 0.45   |
 | Hitachi   | HTS541616J9SA00    | 160 GB | 26      | 464   | 82    | 0.44   |
 | Hitachi   | HTS727575A9E364    | 752 GB | 13      | 408   | 102   | 0.44   |
-| Hitachi   | HDS722512VLAT20    | 128 GB | 1       | 801   | 4     | 0.44   |
+| Hitachi   | HDS722512VLAT20    | 128 GB | 1       | 802   | 4     | 0.44   |
 | Hitachi   | HTS541075A9E680    | 752 GB | 4       | 325   | 764   | 0.43   |
 | Hitachi   | HDP725032GLA380    | 320 GB | 5       | 880   | 41    | 0.43   |
 | Hitachi   | HTS543232A7A384    | 320 GB | 139     | 287   | 297   | 0.42   |
@@ -210,7 +210,7 @@ Rating — avg. rating per sample.
 | Hitachi   | HDP725032GLAT80    | 320 GB | 1       | 943   | 55    | 0.05   |
 | Hitachi   | HDT721050SLA360    | 500 GB | 2       | 1337  | 95    | 0.04   |
 | Hitachi   | HTS545025A7E380    | 250 GB | 1       | 15    | 0     | 0.04   |
-| Hitachi   | HTS543232L9SA02    | 320 GB | 1       | 1244  | 84    | 0.04   |
+| Hitachi   | HTS543232L9SA02    | 320 GB | 1       | 1255  | 84    | 0.04   |
 | Hitachi   | HTS723225L9A360    | 250 GB | 3       | 322   | 1301  | 0.04   |
 | Hitachi   | HDS722525VLAT80    | 250 GB | 1       | 11    | 0     | 0.03   |
 | Hitachi   | HTS541660J9SA00    | 64 GB  | 2       | 112   | 12    | 0.03   |
@@ -265,7 +265,7 @@ Rating — avg. rating per sample.
 | Hitachi   | Deskstar 7K160         | 7      | 127     | 839   | 103   | 1.11   |
 | Hitachi   | Deskstar P7K500        | 9      | 126     | 877   | 69    | 1.10   |
 | Hitachi   | CinemaStar P7K500      | 1      | 2       | 1010  | 2     | 0.97   |
-| Hitachi   | Travelstar 5K500.B     | 12     | 307     | 495   | 157   | 0.75   |
+| Hitachi   | Travelstar 5K500.B     | 12     | 307     | 496   | 157   | 0.75   |
 | Hitachi   | Travelstar 7K200       | 6      | 11      | 608   | 117   | 0.67   |
 | Hitachi   | Travelstar 5K750       | 3      | 222     | 418   | 366   | 0.66   |
 | Hitachi   | Travelstar Z7K500      | 1      | 8       | 375   | 670   | 0.65   |
@@ -274,7 +274,7 @@ Rating — avg. rating per sample.
 | Hitachi   | Travelstar 5K1000      | 3      | 15      | 395   | 685   | 0.62   |
 | Hitachi   | CinemaStar 7K1000.B    | 2      | 4       | 218   | 0     | 0.60   |
 | Hitachi   | Travelstar 7K100       | 4      | 7       | 327   | 11    | 0.54   |
-| Hitachi   | Travelstar Z5K500      | 3      | 105     | 320   | 123   | 0.53   |
+| Hitachi   | Travelstar Z5K500      | 3      | 105     | 322   | 123   | 0.53   |
 | Hitachi   | Deskstar 7K1000.D      | 2      | 60      | 561   | 477   | 0.52   |
 | Hitachi   | Travelstar Z7K320      | 1      | 22      | 337   | 466   | 0.52   |
 | Hitachi   | CinemaStar 5K1000.B    | 1      | 1       | 169   | 0     | 0.47   |

@@ -59,7 +59,7 @@ Rating — avg. rating per sample.
 | WDC       | WD2502ABYS-23B7... | 250 GB | 2       | 1522  | 0     | 4.17   |
 | HP        | GB1000EAMYC        | 1 TB   | 1       | 1490  | 0     | 4.08   |
 | WDC       | WD2000JD-00GBB0    | 200 GB | 1       | 1482  | 0     | 4.06   |
-| WDC       | WD1200JS-55NCB1    | 120 GB | 1       | 1440  | 0     | 3.95   |
+| WDC       | WD1200JS-55NCB1    | 120 GB | 1       | 1469  | 0     | 4.03   |
 | WDC       | WD800JD-75MSA2     | 79 GB  | 1       | 1432  | 0     | 3.92   |
 | Hitachi   | HDT722520DLAT80    | 200 GB | 2       | 1406  | 0     | 3.85   |
 | Hitachi   | HUA723030ALA640    | 3 TB   | 1       | 1403  | 0     | 3.84   |
@@ -96,6 +96,7 @@ Rating — avg. rating per sample.
 | WDC       | WD1500AHFD-00RAR5  | 150 GB | 1       | 1164  | 0     | 3.19   |
 | WDC       | WD5000AVJB-63YUA0  | 500 GB | 1       | 1163  | 0     | 3.19   |
 | Toshiba   | MK8017GSG          | 80 GB  | 1       | 1162  | 0     | 3.18   |
+| WDC       | WD2500AAKS-22VSA0  | 250 GB | 1       | 1161  | 0     | 3.18   |
 | Samsung   | HD400LD            | 400 GB | 2       | 1157  | 0     | 3.17   |
 | WDC       | WD2503ABYX-01WERA0 | 256 GB | 1       | 1155  | 0     | 3.16   |
 | Seagate   | ST3250823AS        | 250 GB | 10      | 1321  | 25    | 3.16   |
@@ -115,7 +116,6 @@ Rating — avg. rating per sample.
 | WDC       | WD3200AAJS-40VWA0  | 320 GB | 1       | 1118  | 0     | 3.06   |
 | WDC       | WD7500AACS-00D6B0  | 752 GB | 1       | 1107  | 0     | 3.03   |
 | Hitachi   | HDS7250SASUN500... | 500 GB | 1       | 1103  | 0     | 3.02   |
-| WDC       | WD2500AAKS-22VSA0  | 250 GB | 1       | 1095  | 0     | 3.00   |
 | WDC       | WD1200JS-00SGB0    | 120 GB | 2       | 1091  | 0     | 2.99   |
 | WDC       | WD1001FALS-00J7B0  | 1 TB   | 10      | 1087  | 0     | 2.98   |
 | WDC       | WD30EFRX-68AX9N0   | 3 TB   | 8       | 1225  | 2     | 2.97   |
@@ -193,6 +193,7 @@ Rating — avg. rating per sample.
 | WDC       | WD400BB-71DGA0     | 40 GB  | 1       | 900   | 0     | 2.47   |
 | Seagate   | ST3802110AS        | 80 GB  | 2       | 899   | 0     | 2.46   |
 | WDC       | WD740ADFD-00NLR1   | 74 GB  | 1       | 895   | 0     | 2.45   |
+| Hitachi   | HTS545032B9SA00    | 320 GB | 4       | 1033  | 516   | 2.44   |
 | WDC       | WD800BB-22HEA1     | 80 GB  | 1       | 888   | 0     | 2.43   |
 | WDC       | WD1600BB-56RDA0    | 160 GB | 2       | 888   | 0     | 2.43   |
 | HGST      | HTE541010A9E680    | 1 TB   | 2       | 913   | 509   | 2.43   |
@@ -212,7 +213,6 @@ Rating — avg. rating per sample.
 | WDC       | WD800BB-75JHA0     | 79 GB  | 1       | 865   | 0     | 2.37   |
 | WDC       | WD1600AAJS-22PSA0  | 160 GB | 13      | 964   | 4     | 2.37   |
 | WDC       | WD3202ABYS-02B7A0  | 320 GB | 6       | 929   | 1     | 2.36   |
-| Hitachi   | HTS545032B9SA00    | 320 GB | 4       | 1004  | 516   | 2.36   |
 | WDC       | WD800AAJS-22PSA0   | 80 GB  | 4       | 852   | 0     | 2.33   |
 | Seagate   | ST3500630A         | 500 GB | 7       | 1381  | 33    | 2.33   |
 | Hitachi   | HCS5C1050CLA382    | 500 GB | 1       | 848   | 0     | 2.33   |
@@ -244,8 +244,8 @@ Rating — avg. rating per sample.
 | HGST      | HUS726040ALA610    | 4 TB   | 2       | 810   | 0     | 2.22   |
 | WDC       | WD10EALX-759BA1    | 1 TB   | 5       | 1376  | 5     | 2.21   |
 | Seagate   | ST3120213AS        | 120 GB | 1       | 806   | 0     | 2.21   |
+| WDC       | WD3200AAKS-22B3A0  | 320 GB | 1       | 806   | 0     | 2.21   |
 | Seagate   | ST3320413AS        | 320 GB | 7       | 1178  | 4     | 2.21   |
-| WDC       | WD3200AAKS-22B3A0  | 320 GB | 1       | 804   | 0     | 2.20   |
 | Hitachi   | HTS723232L9SA62    | 320 GB | 1       | 804   | 0     | 2.20   |
 | WDC       | WD7500AALX-009BA0  | 752 GB | 6       | 798   | 0     | 2.19   |
 | WDC       | WD3200AAKS-75SBA0  | 320 GB | 1       | 798   | 0     | 2.19   |
@@ -262,13 +262,13 @@ Rating — avg. rating per sample.
 | WDC       | WD6400AAKS-75A7B2  | 640 GB | 3       | 1059  | 3     | 2.14   |
 | WDC       | WD5000AADS-56S9B0  | 500 GB | 1       | 782   | 0     | 2.14   |
 | Seagate   | ST91603110CS       | 160 GB | 1       | 781   | 0     | 2.14   |
-| WDC       | WD5000AAKS-65YGA0  | 500 GB | 7       | 777   | 0     | 2.13   |
+| WDC       | WD5000AAKS-65YGA0  | 500 GB | 7       | 780   | 0     | 2.14   |
+| WDC       | WD5001AALS-00E3A0  | 500 GB | 9       | 776   | 0     | 2.13   |
 | WDC       | WD10EARX-32N0YB0   | 1 TB   | 3       | 799   | 5     | 2.13   |
 | WDC       | WD2500BB-00GUA0    | 250 GB | 1       | 773   | 0     | 2.12   |
 | WDC       | WD2500JS-60NCB2    | 250 GB | 2       | 773   | 0     | 2.12   |
 | WDC       | WD2500JS-00NCB1    | 250 GB | 10      | 1117  | 34    | 2.12   |
 | Hitachi   | HTS723225L9A362    | 250 GB | 1       | 770   | 0     | 2.11   |
-| WDC       | WD5001AALS-00E3A0  | 500 GB | 9       | 769   | 0     | 2.11   |
 | WDC       | WD1600AAJS-07PSA0  | 160 GB | 3       | 1618  | 9     | 2.10   |
 | WDC       | WD10EALS-002BA0    | 1 TB   | 3       | 766   | 0     | 2.10   |
 | Hitachi   | HTS722012K9SA00    | 120 GB | 3       | 851   | 340   | 2.10   |
@@ -315,8 +315,8 @@ Rating — avg. rating per sample.
 | WDC       | WD6400AAKS-65A7B0  | 640 GB | 5       | 787   | 3     | 1.89   |
 | WDC       | WD2500BEKT-75PVMT1 | 250 GB | 1       | 689   | 0     | 1.89   |
 | Seagate   | ST2000VM003-1CT164 | 2 TB   | 4       | 845   | 1     | 1.89   |
-| WDC       | WD10JMVW-11AJGS1   | 1 TB   | 1       | 688   | 0     | 1.89   |
 | WDC       | WD5001AALS-00L3B2  | 500 GB | 30      | 986   | 31    | 1.89   |
+| WDC       | WD10JMVW-11AJGS1   | 1 TB   | 1       | 688   | 0     | 1.89   |
 | WDC       | WD1001FALS-00Y6A0  | 1 TB   | 4       | 936   | 28    | 1.88   |
 | Seagate   | ST340215AS         | 40 GB  | 1       | 686   | 0     | 1.88   |
 | Fujitsu   | MHZ2080BH G2       | 80 GB  | 1       | 684   | 0     | 1.88   |
@@ -334,8 +334,8 @@ Rating — avg. rating per sample.
 | WDC       | WD2500KS-00MJB0    | 250 GB | 19      | 917   | 18    | 1.84   |
 | WDC       | WD1200JS-55MHB0    | 120 GB | 2       | 671   | 0     | 1.84   |
 | WDC       | WD5000LPVT-60G33T0 | 500 GB | 1       | 670   | 0     | 1.84   |
+| WDC       | WD10EADS-00M2B0    | 1 TB   | 24      | 905   | 84    | 1.84   |
 | WDC       | WD30EZRX-00MMMB0   | 3 TB   | 6       | 836   | 2     | 1.84   |
-| WDC       | WD10EADS-00M2B0    | 1 TB   | 24      | 905   | 84    | 1.83   |
 | WDC       | WD1502FYPS-01U1B1  | 1.5 TB | 1       | 667   | 0     | 1.83   |
 | Hitachi   | HDT721016SLA380    | 160 GB | 13      | 788   | 5     | 1.82   |
 | WDC       | WD30EURS-63R8UY0   | 3 TB   | 2       | 664   | 0     | 1.82   |
@@ -456,10 +456,10 @@ Rating — avg. rating per sample.
 | WDC       | WD1500ADFD-00NLR1  | 150 GB | 1       | 574   | 0     | 1.57   |
 | Toshiba   | MQ01ABC150         | 1.5 TB | 1       | 574   | 0     | 1.57   |
 | WDC       | WD800JD-75JNA0     | 80 GB  | 3       | 1489  | 39    | 1.57   |
+| Samsung   | HD103SJ            | 1 TB   | 73      | 734   | 13    | 1.57   |
 | Seagate   | ST3160212AS        | 160 GB | 2       | 572   | 0     | 1.57   |
 | WDC       | WD15EARS-00S0XB0   | 1.5 TB | 2       | 912   | 1     | 1.57   |
 | WDC       | WD15EVDS-63V9B1    | 1.5 TB | 1       | 571   | 0     | 1.57   |
-| Samsung   | HD103SJ            | 1 TB   | 73      | 733   | 13    | 1.56   |
 | Seagate   | ST1000VX000-9YW162 | 1 TB   | 4       | 570   | 0     | 1.56   |
 | WDC       | WD2500AAJS-07M0A0  | 250 GB | 4       | 815   | 4     | 1.56   |
 | Seagate   | ST31000525SV       | 1 TB   | 2       | 938   | 2     | 1.56   |
@@ -481,7 +481,7 @@ Rating — avg. rating per sample.
 | Samsung   | HD204UI            | 2 TB   | 17      | 870   | 57    | 1.52   |
 | Hitachi   | HDS721612PLA380    | 120 GB | 6       | 1022  | 3     | 1.52   |
 | Seagate   | ST32000645NS       | 2 TB   | 4       | 553   | 0     | 1.52   |
-| Seagate   | ST380815AS         | 80 GB  | 113     | 774   | 237   | 1.51   |
+| Seagate   | ST380815AS         | 80 GB  | 113     | 775   | 237   | 1.52   |
 | Seagate   | ST3160815AS        | 160 GB | 138     | 790   | 400   | 1.51   |
 | WDC       | WD5000AVCS-732DY1  | 500 GB | 1       | 551   | 0     | 1.51   |
 | WDC       | WD3200BPVT-00HXZT0 | 320 GB | 1       | 549   | 0     | 1.51   |
@@ -545,6 +545,7 @@ Rating — avg. rating per sample.
 | WDC       | WD10JMVW-11AJGS2   | 1 TB   | 2       | 558   | 4     | 1.38   |
 | WDC       | WD20EARS-00MVWB0   | 2 TB   | 43      | 826   | 84    | 1.38   |
 | Toshiba   | MK2556GSYF         | 250 GB | 1       | 503   | 0     | 1.38   |
+| WDC       | WD1600AAJS-00B4A0  | 160 GB | 17      | 715   | 81    | 1.37   |
 | Seagate   | ST3160023A         | 160 GB | 16      | 827   | 320   | 1.37   |
 | WDC       | WD1600BEVS-07RST0  | 160 GB | 5       | 566   | 1     | 1.37   |
 | Seagate   | ST380012ACE        | 80 GB  | 4       | 498   | 0     | 1.37   |
@@ -571,7 +572,6 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS721050CLA660    | 500 GB | 13      | 543   | 7     | 1.34   |
 | WDC       | WD7500AADS-00M2B0  | 752 GB | 16      | 903   | 23    | 1.34   |
 | WDC       | WD740ADFD-00NLR5   | 74 GB  | 2       | 486   | 0     | 1.33   |
-| WDC       | WD1600AAJS-00B4A0  | 160 GB | 17      | 712   | 82    | 1.33   |
 | Seagate   | ST98823A           | 80 GB  | 4       | 633   | 323   | 1.33   |
 | Seagate   | ST9500420ASG       | 500 GB | 2       | 572   | 1     | 1.33   |
 | Fujitsu   | MHT2040AH          | 40 GB  | 1       | 484   | 0     | 1.33   |
@@ -584,12 +584,12 @@ Rating — avg. rating per sample.
 | WDC       | WD40EZRX-00SPEB0   | 4 TB   | 6       | 661   | 6     | 1.31   |
 | Seagate   | ST3750525AS        | 752 GB | 11      | 632   | 3     | 1.31   |
 | WDC       | WD7502AAEX-00Y9A0  | 752 GB | 5       | 478   | 0     | 1.31   |
+| WDC       | WD7500BPKX-75HPJT0 | 752 GB | 2       | 478   | 0     | 1.31   |
 | WDC       | WD30EZRX-00D8PB0   | 3 TB   | 11      | 544   | 1     | 1.31   |
-| WDC       | WD6400AAKS-22A7B0  | 640 GB | 8       | 903   | 4     | 1.31   |
+| WDC       | WD6400AAKS-22A7B0  | 640 GB | 8       | 905   | 4     | 1.31   |
 | WDC       | WD5000AAKX-603CA0  | 500 GB | 9       | 552   | 113   | 1.31   |
 | Hitachi   | HUA722050CLA330    | 500 GB | 2       | 476   | 0     | 1.31   |
 | Apple     | HDD ST1000DM003    | 1 TB   | 2       | 476   | 0     | 1.31   |
-| WDC       | WD7500BPKX-75HPJT0 | 752 GB | 2       | 476   | 0     | 1.30   |
 | Seagate   | ST9120821A         | 120 GB | 4       | 709   | 20    | 1.30   |
 | WDC       | WD20EARX-00PASB0   | 2 TB   | 58      | 759   | 144   | 1.30   |
 | WDC       | WD1600JS-56MHB1    | 160 GB | 6       | 572   | 5     | 1.30   |
@@ -605,9 +605,9 @@ Rating — avg. rating per sample.
 | Hitachi   | HDS721050CLA362    | 500 GB | 106     | 651   | 12    | 1.28   |
 | WDC       | WD2000JB-00GVA0    | 200 GB | 2       | 468   | 0     | 1.28   |
 | WDC       | WD7500BPKT-80PK4T0 | 752 GB | 2       | 467   | 0     | 1.28   |
+| WDC       | WD5000AZRX-00A8LB0 | 500 GB | 61      | 487   | 1     | 1.28   |
 | WDC       | WD3200AAKS-61L9A0  | 320 GB | 4       | 471   | 8     | 1.28   |
 | Seagate   | ST32000646NS       | 2 TB   | 1       | 467   | 0     | 1.28   |
-| WDC       | WD5000AZRX-00A8LB0 | 500 GB | 61      | 486   | 1     | 1.28   |
 | Samsung   | SV0221N            | 20 GB  | 1       | 2328  | 4     | 1.28   |
 | Hitachi   | HDT721010SLA360    | 1 TB   | 22      | 1069  | 18    | 1.28   |
 | Hitachi   | HDT721064SLA380    | 640 GB | 1       | 464   | 0     | 1.27   |
@@ -663,8 +663,8 @@ Rating — avg. rating per sample.
 | WDC       | WD10EARS-22Y5B1    | 1 TB   | 10      | 773   | 26    | 1.21   |
 | WDC       | WD5000AAKX-221CA0  | 500 GB | 1       | 882   | 1     | 1.21   |
 | WDC       | WD15EZRX-00DC0B0   | 1.5 TB | 1       | 438   | 0     | 1.20   |
-| Samsung   | HD155UI            | 1.5 TB | 1       | 437   | 0     | 1.20   |
 | Samsung   | HD501LJ            | 500 GB | 33      | 808   | 344   | 1.20   |
+| Samsung   | HD155UI            | 1.5 TB | 1       | 437   | 0     | 1.20   |
 | WDC       | WD1200BEVS-22UST0  | 120 GB | 15      | 577   | 107   | 1.19   |
 | WDC       | WD1600BEVT-00ZCT0  | 160 GB | 3       | 435   | 0     | 1.19   |
 | Seagate   | ST3000DM001-1ER166 | 3 TB   | 16      | 435   | 0     | 1.19   |
@@ -737,7 +737,7 @@ Rating — avg. rating per sample.
 | WDC       | WD2000JB-00KFA0    | 200 GB | 1       | 1220  | 2     | 1.11   |
 | WDC       | WD2500JD-00HBB0    | 250 GB | 1       | 406   | 0     | 1.11   |
 | Fujitsu   | MHV2100BH          | 100 GB | 4       | 717   | 25    | 1.11   |
-| Seagate   | ST3500418AS        | 500 GB | 280     | 737   | 190   | 1.11   |
+| Seagate   | ST3500418AS        | 500 GB | 280     | 738   | 190   | 1.11   |
 | Samsung   | HM251HI            | 250 GB | 4       | 532   | 3     | 1.11   |
 | WDC       | WD10EZEX-21M2NA0   | 1 TB   | 19      | 418   | 1     | 1.11   |
 | WDC       | WD10EURX-63C57Y0   | 1 TB   | 1       | 405   | 0     | 1.11   |
@@ -869,6 +869,7 @@ Rating — avg. rating per sample.
 | Fujitsu   | MHW2120BJ G2       | 120 GB | 1       | 356   | 0     | 0.98   |
 | WDC       | WD800BEVS-07RST0   | 80 GB  | 2       | 356   | 0     | 0.98   |
 | WDC       | WD6400AARS-00Y5B1  | 640 GB | 14      | 807   | 12    | 0.97   |
+| WDC       | WD20NPVX-00EA4T0   | 2 TB   | 1       | 354   | 0     | 0.97   |
 | WDC       | WD3200AAJS-00M0A0  | 320 GB | 2       | 574   | 1     | 0.97   |
 | Toshiba   | MK3261GSYG         | 320 GB | 1       | 354   | 0     | 0.97   |
 | Seagate   | ST500VT000-1DK142  | 500 GB | 2       | 354   | 0     | 0.97   |
@@ -879,12 +880,12 @@ Rating — avg. rating per sample.
 | WDC       | WD6400AACS-00M3B0  | 640 GB | 1       | 352   | 0     | 0.97   |
 | Toshiba   | MK8032GSX          | 80 GB  | 8       | 464   | 161   | 0.96   |
 | WDC       | WD10JPVT-60A1YT0   | 1 TB   | 2       | 455   | 505   | 0.96   |
+| WDC       | WD5000LPVT-75G33T0 | 500 GB | 4       | 407   | 2     | 0.96   |
 | Fujitsu   | MHV2120AH          | 120 GB | 2       | 482   | 3     | 0.96   |
 | Seagate   | ST3250310AS        | 250 GB | 124     | 819   | 219   | 0.96   |
 | WDC       | WD25EZRX-00MMMB0   | 2.5 TB | 1       | 1049  | 2     | 0.96   |
 | WDC       | WD3000BLFS-08YBU0  | 304 GB | 1       | 349   | 0     | 0.96   |
 | WDC       | WD6000BLHX-01V7BV0 | 600 GB | 1       | 349   | 0     | 0.96   |
-| WDC       | WD20NPVX-00EA4T0   | 2 TB   | 1       | 349   | 0     | 0.96   |
 | WDC       | WD10EZRX-00DC0B0   | 1 TB   | 4       | 348   | 0     | 0.96   |
 | WDC       | WD5000LPVX-08V0TT6 | 500 GB | 1       | 348   | 0     | 0.95   |
 | WDC       | WD5000AAKS-75V0A0  | 500 GB | 5       | 370   | 2     | 0.95   |
@@ -899,7 +900,6 @@ Rating — avg. rating per sample.
 | WDC       | WD5000BPVT-22HXZT3 | 500 GB | 34      | 452   | 32    | 0.95   |
 | WDC       | WD5000BUCT-63LS5Y1 | 500 GB | 1       | 345   | 0     | 0.95   |
 | WDC       | WD5000BMVW-11S5XS0 | 500 GB | 3       | 344   | 0     | 0.94   |
-| WDC       | WD5000LPVT-75G33T0 | 500 GB | 4       | 400   | 2     | 0.94   |
 | WDC       | WD10EZEX-07WN4A0   | 1 TB   | 2       | 344   | 0     | 0.94   |
 | WDC       | WD7500BPKT-00PK4T0 | 752 GB | 2       | 343   | 0     | 0.94   |
 | WDC       | WD3200AAKS-00UU3A0 | 320 GB | 8       | 701   | 16    | 0.94   |
@@ -907,7 +907,7 @@ Rating — avg. rating per sample.
 | WDC       | WD3200BPVT-55JJ5T0 | 320 GB | 5       | 395   | 195   | 0.94   |
 | Samsung   | HD251HJ            | 250 GB | 7       | 753   | 62    | 0.94   |
 | Seagate   | ST380811AS         | 80 GB  | 51      | 570   | 549   | 0.94   |
-| Seagate   | ST3160811AS        | 160 GB | 76      | 786   | 447   | 0.94   |
+| Seagate   | ST3160811AS        | 160 GB | 76      | 787   | 447   | 0.94   |
 | WDC       | WD6400BPVT-55HXZT2 | 640 GB | 1       | 340   | 0     | 0.93   |
 | WDC       | WD10EARS-00Y5B1    | 1 TB   | 77      | 812   | 82    | 0.93   |
 | WDC       | WD15EARX-22PASB0   | 1.5 TB | 1       | 340   | 0     | 0.93   |
@@ -922,7 +922,7 @@ Rating — avg. rating per sample.
 | WDC       | WD10JPVT-24A1YT0   | 1 TB   | 2       | 338   | 0     | 0.93   |
 | Samsung   | HD080HJ            | 80 GB  | 83      | 781   | 351   | 0.93   |
 | WDC       | WD3200BPVT-35ZEST0 | 320 GB | 21      | 442   | 2     | 0.93   |
-| WDC       | WD5000AAKX-00ERMA0 | 500 GB | 80      | 478   | 5     | 0.92   |
+| WDC       | WD5000AAKX-00ERMA0 | 500 GB | 80      | 478   | 5     | 0.93   |
 | ExcelStor | J680               | 82 GB  | 1       | 1687  | 4     | 0.92   |
 | IBM/Hi... | IC35L090AVV207-0   | 80 GB  | 2       | 735   | 2     | 0.92   |
 | WDC       | WD1200BEVS-75UST0  | 120 GB | 9       | 428   | 2     | 0.92   |
@@ -968,16 +968,16 @@ Rating — avg. rating per sample.
 | WDC       | WD3200JS-00PDB0    | 320 GB | 1       | 324   | 0     | 0.89   |
 | Samsung   | HD403LJ            | 400 GB | 14      | 1119  | 516   | 0.89   |
 | WDC       | WD2500JS-58NCB1    | 250 GB | 2       | 773   | 308   | 0.89   |
+| Seagate   | ST1000DM003-1CH162 | 1 TB   | 234     | 425   | 39    | 0.88   |
 | Seagate   | ST31000524NS       | 1 TB   | 3       | 767   | 506   | 0.88   |
-| Seagate   | ST1000DM003-1CH162 | 1 TB   | 234     | 424   | 39    | 0.88   |
 | Seagate   | ST2000VN000-1H3164 | 2 TB   | 1       | 321   | 0     | 0.88   |
 | WDC       | WD800BEVT-22ZCT0   | 80 GB  | 1       | 321   | 0     | 0.88   |
 | WDC       | WD3001FAEX-00MJRA0 | 3 TB   | 2       | 321   | 0     | 0.88   |
 | WDC       | WD2500AAJS-08B4A0  | 250 GB | 2       | 931   | 1211  | 0.88   |
 | WDC       | WD10JPVT-55A1YT0   | 1 TB   | 1       | 320   | 0     | 0.88   |
 | WDC       | WD7500BPVT-26HXZT3 | 752 GB | 1       | 1277  | 3     | 0.88   |
+| Toshiba   | DT01ACA200         | 2 TB   | 67      | 343   | 61    | 0.87   |
 | WDC       | WD15EARS-00MVWB0   | 1.5 TB | 29      | 805   | 342   | 0.87   |
-| Toshiba   | DT01ACA200         | 2 TB   | 67      | 342   | 61    | 0.87   |
 | Seagate   | ST380215A          | 80 GB  | 24      | 467   | 123   | 0.87   |
 | Hitachi   | HDS721025CLA382    | 250 GB | 13      | 484   | 314   | 0.87   |
 | WDC       | WD3200AAJS-61B4A0  | 320 GB | 2       | 431   | 4     | 0.87   |

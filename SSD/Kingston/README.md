@@ -85,8 +85,8 @@ Rating — avg. rating per sample.
 | Kingston  | RBU-SNS8152S325... | 256 GB | 1       | 80    | 0     | 0.22   |
 | Kingston  | SHSS37A240G        | 240 GB | 12      | 77    | 0     | 0.21   |
 | Kingston  | SS200S330G         | 32 GB  | 1       | 70    | 0     | 0.19   |
+| Kingston  | SHFS37A240G        | 240 GB | 12      | 96    | 424   | 0.19   |
 | Kingston  | RBU-SNS8100S3256GD | 256 GB | 1       | 66    | 0     | 0.18   |
-| Kingston  | SHFS37A240G        | 240 GB | 12      | 92    | 424   | 0.18   |
 | Kingston  | SKC400S37256G      | 256 GB | 1       | 64    | 0     | 0.18   |
 | Kingston  | SHPM2280P2H-480G   | 480 GB | 1       | 180   | 2     | 0.16   |
 | Kingston  | SUV500480G         | 480 GB | 1       | 57    | 0     | 0.16   |
