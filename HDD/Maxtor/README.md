@@ -43,8 +43,8 @@ Rating — avg. rating per sample.
 | Maxtor    | STM3160211AS       | 160 GB | 3       | 624   | 349   | 0.80   |
 | Maxtor    | STM380811AS        | 80 GB  | 4       | 500   | 5     | 0.79   |
 | Maxtor    | 6L040J2            | 40 GB  | 1       | 1576  | 5     | 0.72   |
-| Maxtor    | STM3320620AS       | 320 GB | 2       | 254   | 0     | 0.70   |
 | Maxtor    | STM3250310AS       | 250 GB | 53      | 715   | 380   | 0.70   |
+| Maxtor    | STM3320620AS       | 320 GB | 2       | 254   | 0     | 0.70   |
 | Maxtor    | 6L020J1            | 20 GB  | 2       | 463   | 3     | 0.69   |
 | Maxtor    | STM380815AS        | 80 GB  | 20      | 668   | 665   | 0.69   |
 | Maxtor    | 6G160P0            | 160 GB | 2       | 217   | 0     | 0.60   |

@@ -25,11 +25,11 @@ Rating — avg. rating per sample.
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | Apacer    | A7202              | 64 GB  | 1       | 262   | 0     | 0.72   |
 | Apacer    | AST680S            | 128 GB | 2       | 232   | 0     | 0.64   |
-| Apacer    | 256GB SATA Flas... | 256 GB | 1       | 161   | 0     | 0.44   |
+| Apacer    | 256GB SATA Flas... | 256 GB | 1       | 162   | 0     | 0.44   |
 | Apacer    | AS340              | 120 GB | 1       | 119   | 0     | 0.33   |
 | Apacer    | AS330              | 120 GB | 2       | 39    | 0     | 0.11   |
 | Apacer    | AS350              | 120 GB | 4       | 25    | 0     | 0.07   |
-| Apacer    | AS350              | 240 GB | 5       | 23    | 0     | 0.06   |
+| Apacer    | AS350              | 240 GB | 5       | 25    | 0     | 0.07   |
 | Apacer    | AS510S             | 64 GB  | 2       | 15    | 0     | 0.04   |
 | Apacer    | AST280             | 240 GB | 1       | 7     | 0     | 0.02   |
 | Apacer    | 16GB SATA Flash... | 16 GB  | 1       | 33    | 10    | 0.01   |
@@ -47,5 +47,5 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Apacer    | Unknown                | 9      | 19      | 70    | 0     | 0.19   |
+| Apacer    | Unknown                | 9      | 19      | 71    | 0     | 0.20   |
 | Apacer    | SDM5/5A/5A-M Series... | 1      | 1       | 33    | 10    | 0.01   |

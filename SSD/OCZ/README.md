@@ -53,7 +53,7 @@ Rating — avg. rating per sample.
 | OCZ       | VERTEX3            | 240 GB | 7       | 448   | 6     | 1.07   |
 | OCZ       | VERTEX3 MI         | 120 GB | 15      | 452   | 134   | 1.02   |
 | OCZ       | VERTEX4            | 256 GB | 11      | 542   | 1     | 1.02   |
-| OCZ       | VERTEX3            | 90 GB  | 11      | 678   | 7     | 0.99   |
+| OCZ       | VERTEX3            | 90 GB  | 11      | 680   | 7     | 0.99   |
 | OCZ       | VERTEX4            | 64 GB  | 7       | 338   | 1     | 0.92   |
 | OCZ       | VERTEX PLUS R2     | 128 GB | 2       | 331   | 0     | 0.91   |
 | OCZ       | VERTEX3 LP         | 64 GB  | 1       | 320   | 0     | 0.88   |

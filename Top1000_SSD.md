@@ -130,8 +130,8 @@ Rating — avg. rating per sample.
 | OCZ       | REVODRIVE X2       | 25 GB  | 4       | 435   | 0     | 1.19   |
 | SanDisk   | SD8SN8U256G1122    | 256 GB | 1       | 434   | 0     | 1.19   |
 | OCZ       | VERTEX3            | 120 GB | 46      | 637   | 38    | 1.19   |
-| Phison    | SSDS30256XQC800... | 240 GB | 1       | 433   | 0     | 1.19   |
 | OCZ       | VERTEX4            | 128 GB | 56      | 476   | 1     | 1.19   |
+| Phison    | SSDS30256XQC800... | 240 GB | 1       | 433   | 0     | 1.19   |
 | Kingston  | SV200S3128G        | 128 GB | 6       | 432   | 0     | 1.19   |
 | Samsung   | SSD 850 PRO        | 512 GB | 12      | 498   | 87    | 1.18   |
 | ADATA     | SSD S511           | 120 GB | 1       | 430   | 0     | 1.18   |
@@ -173,7 +173,7 @@ Rating — avg. rating per sample.
 | Samsung   | SSD 850 EVO mSATA  | 120 GB | 2       | 369   | 0     | 1.01   |
 | Toshiba   | THNSNC128GCSJ      | 128 GB | 1       | 367   | 0     | 1.01   |
 | Plextor   | PX-64M3            | 64 GB  | 3       | 668   | 346   | 1.00   |
-| OCZ       | VERTEX3            | 90 GB  | 11      | 678   | 7     | 0.99   |
+| OCZ       | VERTEX3            | 90 GB  | 11      | 680   | 7     | 0.99   |
 | Samsung   | MZMPC128HBFU-000H1 | 128 GB | 1       | 361   | 0     | 0.99   |
 | KingShare | 230120SSD          | 128 GB | 1       | 358   | 0     | 0.98   |
 | Kingston  | SH103S3120G        | 120 GB | 36      | 358   | 0     | 0.98   |
@@ -247,8 +247,8 @@ Rating — avg. rating per sample.
 | Toshiba   | THNSNJ128G8NU      | 128 GB | 2       | 274   | 0     | 0.75   |
 | SanDisk   | SD6SB1M128G1001    | 128 GB | 1       | 271   | 0     | 0.74   |
 | SK hynix  | SH920 2.5 7MM      | 256 GB | 1       | 271   | 0     | 0.74   |
+| SanDisk   | SDSSDHP128G        | 128 GB | 17      | 285   | 1     | 0.74   |
 | Samsung   | MZNLN256HCHP-000L7 | 256 GB | 3       | 270   | 0     | 0.74   |
-| SanDisk   | SDSSDHP128G        | 128 GB | 17      | 284   | 1     | 0.74   |
 | Intel     | SSDSC2BP240G4      | 240 GB | 2       | 269   | 0     | 0.74   |
 | Goodram   | GOODRAM SSD        | 120 GB | 2       | 269   | 0     | 0.74   |
 | SanDisk   | SD8SN8U512G1002    | 512 GB | 3       | 268   | 0     | 0.74   |
@@ -357,7 +357,7 @@ Rating — avg. rating per sample.
 | SPCC      | SSD162             | 120 GB | 7       | 406   | 436   | 0.51   |
 | Smartbuy  | mSata              | 64 GB  | 1       | 186   | 0     | 0.51   |
 | Crucial   | M4-CT512M4SSD2     | 512 GB | 1       | 184   | 0     | 0.51   |
-| Intel     | SSDSC2CT180A4      | 180 GB | 5       | 184   | 0     | 0.50   |
+| Intel     | SSDSC2CT180A4      | 180 GB | 5       | 184   | 0     | 0.51   |
 | Crucial   | CT2000MX500SSD1    | 2 TB   | 1       | 183   | 0     | 0.50   |
 | Patriot   | Spark              | 128 GB | 6       | 181   | 0     | 0.50   |
 | Plextor   | PX-256M7VC         | 256 GB | 3       | 181   | 0     | 0.50   |
@@ -382,7 +382,7 @@ Rating — avg. rating per sample.
 | Corsair   | Force LE200 SSD    | 120 GB | 1       | 164   | 0     | 0.45   |
 | SanDisk   | SD7SB6S256G1122    | 256 GB | 1       | 163   | 0     | 0.45   |
 | Kingston  | SM2280S3G2120G     | 120 GB | 2       | 162   | 0     | 0.44   |
-| Apacer    | 256GB SATA Flas... | 256 GB | 1       | 161   | 0     | 0.44   |
+| Apacer    | 256GB SATA Flas... | 256 GB | 1       | 162   | 0     | 0.44   |
 | Crucial   | M4-CT512M4SSD1     | 512 GB | 1       | 161   | 0     | 0.44   |
 | Intel     | SSDSCMMW180A3L     | 180 GB | 1       | 160   | 0     | 0.44   |
 | Samsung   | MZNLF128HCHP-00004 | 128 GB | 3       | 160   | 0     | 0.44   |
@@ -411,6 +411,7 @@ Rating — avg. rating per sample.
 | Samsung   | SSD 750 EVO        | 500 GB | 3       | 146   | 0     | 0.40   |
 | Goodram   | GOODRAM CX100      | 120 GB | 6       | 152   | 2     | 0.40   |
 | Samsung   | MZMPA024HMCD-000L1 | 24 GB  | 2       | 198   | 10    | 0.40   |
+| Samsung   | MZMTD128HAFV-000L1 | 128 GB | 7       | 168   | 21    | 0.39   |
 | Intel     | SSDSC2BB120G4      | 120 GB | 1       | 143   | 0     | 0.39   |
 | QUMO      | SSD                | 64 GB  | 1       | 143   | 0     | 0.39   |
 | Patriot   | Blast              | 240 GB | 4       | 143   | 0     | 0.39   |
@@ -424,11 +425,11 @@ Rating — avg. rating per sample.
 | SanDisk   | SDSSDHP256G        | 256 GB | 5       | 135   | 0     | 0.37   |
 | Kingston  | SV300S37A240G      | 240 GB | 52      | 135   | 1     | 0.37   |
 | SK hynix  | HFS128G32MND-3210A | 128 GB | 1       | 135   | 0     | 0.37   |
+| Toshiba   | VX500              | 256 GB | 1       | 134   | 0     | 0.37   |
 | Transcend | TS256GMTS400       | 256 GB | 3       | 132   | 0     | 0.36   |
 | Kingston  | SMS200S330G        | 32 GB  | 1       | 132   | 0     | 0.36   |
 | OCZ       | AGILITY4           | 256 GB | 4       | 142   | 61    | 0.36   |
 | Toshiba   | THNSNF064GMCS      | 64 GB  | 2       | 129   | 0     | 0.35   |
-| Samsung   | MZMTD128HAFV-000L1 | 128 GB | 7       | 153   | 21    | 0.35   |
 | SanDisk   | SDSSDXPS240G       | 240 GB | 4       | 136   | 259   | 0.35   |
 | ADATA     | SP600              | 32 GB  | 4       | 127   | 0     | 0.35   |
 | OCZ       | VECTOR150          | 240 GB | 2       | 127   | 0     | 0.35   |
@@ -437,13 +438,12 @@ Rating — avg. rating per sample.
 | Chiprex   | S10T3120GB         | 120 GB | 1       | 126   | 0     | 0.35   |
 | Apple     | SSD TS256C         | 256 GB | 2       | 126   | 0     | 0.35   |
 | KingFast  | SSD                | 29 GB  | 1       | 125   | 0     | 0.34   |
+| Samsung   | SSD 750 EVO        | 250 GB | 15      | 125   | 0     | 0.34   |
 | Crucial   | CT256M550SSD1      | 256 GB | 5       | 378   | 7     | 0.34   |
-| Samsung   | SSD 750 EVO        | 250 GB | 15      | 124   | 0     | 0.34   |
 | Kingston  | SUV400S37240G      | 240 GB | 39      | 131   | 27    | 0.34   |
 | OCZ       | ARC100             | 240 GB | 5       | 123   | 0     | 0.34   |
 | Apple     | SSD SM512E         | 500 GB | 1       | 123   | 0     | 0.34   |
 | OCZ       | VERTEX450          | 128 GB | 1       | 121   | 0     | 0.33   |
-| Toshiba   | VX500              | 256 GB | 1       | 120   | 0     | 0.33   |
 | ADATA     | SSD S511           | 64 GB  | 3       | 450   | 679   | 0.33   |
 | Samsung   | SSD 850 EVO M.2    | 500 GB | 7       | 120   | 0     | 0.33   |
 | ADATA     | SP310              | 128 GB | 1       | 120   | 0     | 0.33   |
@@ -562,6 +562,7 @@ Rating — avg. rating per sample.
 | OCZ       | SABER1000          | 480 GB | 1       | 70    | 0     | 0.19   |
 | Toshiba   | TR150              | 480 GB | 2       | 70    | 0     | 0.19   |
 | PNY       | CS1311 120GB SSD   | 120 GB | 3       | 69    | 0     | 0.19   |
+| Plextor   | PX-256M6S          | 256 GB | 8       | 73    | 127   | 0.19   |
 | Transcend | TS256GMTS800       | 256 GB | 2       | 69    | 0     | 0.19   |
 | China     | 64GB SSD           | 64 GB  | 10      | 68    | 0     | 0.19   |
 | SanDisk   | SD5SE2256G1002E    | 256 GB | 1       | 68    | 0     | 0.19   |
@@ -608,7 +609,6 @@ Rating — avg. rating per sample.
 | Samsung   | MZNLN256HCHP-00000 | 256 GB | 1       | 60    | 0     | 0.17   |
 | Kingston  | SHPM2280P2H-480G   | 480 GB | 1       | 180   | 2     | 0.16   |
 | Goodram   | GOODRAM IR-SSDP... | 120 GB | 2       | 59    | 0     | 0.16   |
-| Plextor   | PX-256M6S          | 256 GB | 8       | 63    | 127   | 0.16   |
 | Patriot   | Burst              | 480 GB | 3       | 59    | 0     | 0.16   |
 | Micron    | 1100_MTFDDAV512TBN | 512 GB | 4       | 59    | 0     | 0.16   |
 | TEKET     | SA18-032M-4F       | 32 GB  | 2       | 59    | 0     | 0.16   |
@@ -716,7 +716,7 @@ Rating — avg. rating per sample.
 | Intel     | SSDSA1MH080G1HP    | 80 GB  | 1       | 33    | 0     | 0.09   |
 | KingDian  | S180               | 64 GB  | 10      | 38    | 114   | 0.09   |
 | SanDisk   | SD6SB1M-032G-1006  | 32 GB  | 1       | 33    | 0     | 0.09   |
-| Plextor   | PX-128M6Pro        | 128 GB | 8       | 32    | 0     | 0.09   |
+| Plextor   | PX-128M6Pro        | 128 GB | 8       | 33    | 0     | 0.09   |
 | China     | SSD                | 120 GB | 4       | 32    | 0     | 0.09   |
 | Smartbuy  | mSata              | 128 GB | 2       | 32    | 0     | 0.09   |
 | SPCC      | SSD                | 256 GB | 4       | 72    | 26    | 0.09   |
@@ -762,6 +762,7 @@ Rating — avg. rating per sample.
 | Toshiba   | THNSNF256GMCS      | 256 GB | 1       | 28    | 0     | 0.08   |
 | Crucial   | CT500MX500SSD4     | 500 GB | 2       | 28    | 0     | 0.08   |
 | LDLC      | SSD                | 120 GB | 2       | 27    | 0     | 0.08   |
+| Samsung   | SSD 860 PRO        | 512 GB | 6       | 27    | 0     | 0.08   |
 | Toshiba   | TR200              | 240 GB | 9       | 27    | 0     | 0.08   |
 | Samsung   | MZ7TY128HDHP-000L1 | 128 GB | 2       | 27    | 0     | 0.08   |
 | SenDisk   | C3-60G             | 64 GB  | 1       | 27    | 0     | 0.08   |
@@ -777,6 +778,7 @@ Rating — avg. rating per sample.
 | Apacer    | AS350              | 120 GB | 4       | 25    | 0     | 0.07   |
 | Crucial   | CT480BX500SSD1     | 480 GB | 2       | 25    | 0     | 0.07   |
 | Intel     | SSDSC2BW180A3H     | 180 GB | 1       | 25    | 0     | 0.07   |
+| Apacer    | AS350              | 240 GB | 5       | 25    | 0     | 0.07   |
 | SK hynix  | HFS256G32MND-2900A | 256 GB | 1       | 531   | 20    | 0.07   |
 | Transcend | TS240GSSD220S      | 240 GB | 4       | 25    | 0     | 0.07   |
 | Lite-On   | CV5-8Q256          | 256 GB | 1       | 24    | 0     | 0.07   |
@@ -789,7 +791,6 @@ Rating — avg. rating per sample.
 | Crucial   | CT250MX500SSD1     | 250 GB | 3       | 23    | 0     | 0.06   |
 | Londisk   | SSD                | 120 GB | 3       | 23    | 0     | 0.06   |
 | Intel     | SSDSA2BW160G3H     | 160 GB | 2       | 98    | 4     | 0.06   |
-| Apacer    | AS350              | 240 GB | 5       | 23    | 0     | 0.06   |
 | Transcend | TS256GSSD370S      | 256 GB | 2       | 23    | 0     | 0.06   |
 | Kingrich  | SSD 120G           | 120 GB | 1       | 23    | 0     | 0.06   |
 | GLOWAY    | FER240GS3-S7       | 240 GB | 1       | 23    | 0     | 0.06   |
@@ -814,9 +815,9 @@ Rating — avg. rating per sample.
 | XUNZHE    | XUNZHE XUNZHE80... | 120 GB | 1       | 20    | 0     | 0.05   |
 | Samsung   | MZYLF128HCHP-000L2 | 128 GB | 1       | 20    | 0     | 0.05   |
 | Netac     | SSD 120G           | 120 GB | 1       | 19    | 0     | 0.05   |
+| SanDisk   | SD8SN8U-128G-1006  | 128 GB | 10      | 40    | 3     | 0.05   |
 | Intel     | SSDSCKGF256A5 SATA | 256 GB | 1       | 19    | 0     | 0.05   |
 | Transcend | TS128GMTS800       | 128 GB | 3       | 19    | 0     | 0.05   |
-| SanDisk   | SD8SN8U-128G-1006  | 128 GB | 10      | 40    | 3     | 0.05   |
 | Kingston  | SUV500120G         | 120 GB | 4       | 18    | 0     | 0.05   |
 | SanDisk   | SSD U100           | 64 GB  | 5       | 18    | 0     | 0.05   |
 | SanDisk   | SDSSDH3250G        | 250 GB | 1       | 18    | 0     | 0.05   |
@@ -844,7 +845,6 @@ Rating — avg. rating per sample.
 | SanDisk   | SD8SBAT128G1122    | 128 GB | 1       | 15    | 0     | 0.04   |
 | FASTDISK  | FASTDISK FASTDI... | 120 GB | 1       | 15    | 0     | 0.04   |
 | GLOWAY    | FER120GS3-S7       | 120 GB | 2       | 15    | 0     | 0.04   |
-| Samsung   | SSD 860 PRO        | 512 GB | 6       | 15    | 0     | 0.04   |
 | WDC       | WDS120G2G0A-00JH30 | 120 GB | 22      | 15    | 0     | 0.04   |
 | Transcend | TS32GSSD370S       | 32 GB  | 4       | 15    | 0     | 0.04   |
 | Apacer    | AS510S             | 64 GB  | 2       | 15    | 0     | 0.04   |
