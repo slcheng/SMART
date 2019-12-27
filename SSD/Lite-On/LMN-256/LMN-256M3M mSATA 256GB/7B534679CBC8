@@ -9,7 +9,7 @@ Rotation Rate:    Solid State Device
 Device is:        Not in smartctl database [for details use: -P showall]
 ATA Version is:   ATA8-ACS, ATA/ATAPI-7 T13/1532D revision 4a
 SATA Version is:  SATA 3.0, 6.0 Gb/s
-Local Time is:    Wed Jan  9 19:20:50 2019 MSK
+Local Time is:    Wed Feb  6 04:25:38 2019 MSK
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Disabled
@@ -59,10 +59,10 @@ SMART Attributes Data Structure revision number: 1
 Vendor Specific SMART Attributes with Thresholds:
 ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
   5 Reallocated_Sector_Ct   PO----   100   100   000    -    0
- 12 Power_Cycle_Count       PO----   100   100   000    -    8788
+ 12 Power_Cycle_Count       PO----   100   100   000    -    8930
 175 Program_Fail_Count_Chip PO----   100   100   000    -    0
 176 Erase_Fail_Count_Chip   PO----   100   100   000    -    0
-177 Wear_Leveling_Count     PO----   100   100   000    -    409793
+177 Wear_Leveling_Count     PO----   100   100   000    -    417999
 178 Used_Rsvd_Blk_Cnt_Chip  PO----   100   100   000    -    10
 179 Used_Rsvd_Blk_Cnt_Tot   PO----   100   100   000    -    22
 180 Unused_Rsvd_Blk_Cnt_Tot PO----   088   088   005    -    2528
@@ -70,8 +70,8 @@ ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
 182 Erase_Fail_Count_Total  PO----   100   100   000    -    0
 187 Reported_Uncorrect      PO----   100   100   000    -    22
 195 Hardware_ECC_Recovered  PO----   100   100   000    -    0
-241 Total_LBAs_Written      PO----   100   100   000    -    886727
-242 Total_LBAs_Read         PO----   100   100   000    -    2244108
+241 Total_LBAs_Written      PO----   100   100   000    -    896842
+242 Total_LBAs_Read         PO----   100   100   000    -    2267891
                             ||||||_ K auto-keep
                             |||||__ C event count
                             ||||___ R error rate
@@ -198,25 +198,25 @@ Error -4 occurred at disk power-on lifetime: 0 hours (0 days + 0 hours)
 
 SMART Extended Self-test Log Version: 1 (1 sectors)
 Num  Test_Description    Status                  Remaining  LifeTime(hours)  LBA_of_first_error
-# 1  Short offline       Completed without error       00%     50721         -
-# 2  Extended offline    Completed without error       00%     50721         -
-# 3  Short offline       Completed without error       00%     50721         -
-# 4  Offline             Aborted by host               20%     50721         -
-# 5  Short offline       Completed without error       00%     50721         -
-# 6  Offline             Aborted by host               50%     50721         -
-# 7  Short offline       Completed without error       00%     47648         -
-# 8  Short offline       Completed without error       00%      8480         -
-# 9  Short offline       Completed without error       00%      8480         -
-#10  Short offline       Completed without error       00%     22557         -
-#11  Short offline       Completed without error       00%     19741         -
-#12  Short offline       Completed without error       00%     19485         -
-#13  Short offline       Completed without error       00%     48154         -
-#14  Short offline       Completed without error       00%     26138         -
-#15  Short offline       Completed without error       00%     24858         -
-#16  Short offline       Completed without error       00%     24858         -
-#17  Short offline       Completed without error       00%     22554         -
-#18  Short offline       Completed without error       00%      1306         -
-#19  Short offline       Completed without error       00%     34841         -
+# 1  Short offline       Completed without error       00%     62241         -
+# 2  Short offline       Completed without error       00%     57377         -
+# 3  Short offline       Completed without error       00%     57377         -
+# 4  Short offline       Completed without error       00%     52513         -
+# 5  Short offline       Completed without error       00%     52513         -
+# 6  Short offline       Completed without error       00%     50721         -
+# 7  Extended offline    Completed without error       00%     50721         -
+# 8  Short offline       Completed without error       00%     50721         -
+# 9  Offline             Aborted by host               20%     50721         -
+#10  Short offline       Completed without error       00%     50721         -
+#11  Offline             Aborted by host               50%     50721         -
+#12  Short offline       Completed without error       00%     47648         -
+#13  Short offline       Completed without error       00%      8480         -
+#14  Short offline       Completed without error       00%      8480         -
+#15  Short offline       Completed without error       00%     22557         -
+#16  Short offline       Completed without error       00%     19741         -
+#17  Short offline       Completed without error       00%     19485         -
+#18  Short offline       Completed without error       00%     48154         -
+#19  Short offline       Completed without error       00%     26138         -
 
 Selective Self-tests/Logging not supported
 

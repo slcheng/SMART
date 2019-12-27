@@ -10,7 +10,7 @@ Rotation Rate:    Solid State Device
 Device is:        In smartctl database [for details use: -P show]
 ATA Version is:   ACS-2 (minor revision not indicated)
 SATA Version is:  SATA 3.0, 6.0 Gb/s (current: 6.0 Gb/s)
-Local Time is:    Thu Jun 25 15:11:05 2015 IRKT
+Local Time is:    Thu Jun 25 15:13:46 2015 IRKT
 SMART support is: Available - device has SMART capability.
 SMART support is: Enabled
 AAM feature is:   Unavailable
@@ -59,14 +59,14 @@ SMART Attributes Data Structure revision number: 10
 Vendor Specific SMART Attributes with Thresholds:
 ID# ATTRIBUTE_NAME          FLAGS    VALUE WORST THRESH FAIL RAW_VALUE
   5 Reallocated_Sector_Ct   -O--CK   100   100   000    -    0
-  9 Power_On_Hours_and_Msec -O--CK   100   100   000    -    6126h+41m+04.380s
+  9 Power_On_Hours_and_Msec -O--CK   100   100   000    -    6127h+43m+45.720s
  12 Power_Cycle_Count       -O--CK   100   100   000    -    2575
 192 Power-Off_Retract_Count -O--CK   100   100   000    -    643
-225 Host_Writes_32MiB       -O--CK   100   100   000    -    160376
+225 Host_Writes_32MiB       -O--CK   100   100   000    -    160382
 232 Available_Reservd_Space PO--CK   100   100   010    -    0
 233 Media_Wearout_Indicator -O--CK   100   100   000    -    0
-241 Host_Writes_32MiB       -O--CK   100   100   000    -    160376
-242 Host_Reads_32MiB        -O--CK   100   100   000    -    216238
+241 Host_Writes_32MiB       -O--CK   100   100   000    -    160382
+242 Host_Reads_32MiB        -O--CK   100   100   000    -    216242
 249 NAND_Writes_1GiB        PO--C-   100   100   000    -    3896
                             ||||||_ K auto-keep
                             |||||__ C event count
@@ -144,8 +144,8 @@ Page Offset Size         Value  Description
   1  =====  =                =  == General Statistics (rev 2) ==
   1  0x008  4             2618  Lifetime Power-On Resets
   1  0x010  4             6174  Power-on Hours
-  1  0x018  6      16101522774  Logical Sectors Written
-  1  0x028  6      20037458539  Logical Sectors Read
+  1  0x018  6      16101926846  Logical Sectors Written
+  1  0x028  6      20037706987  Logical Sectors Read
   4  =====  =                =  == General Errors Statistics (rev 1) ==
   4  0x008  4                0  Number of Reported Uncorrectable Errors
   4  0x010  4            47534  Resets Between Cmd Acceptance and Completion
