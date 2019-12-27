@@ -24,17 +24,17 @@ Rating — avg. rating per sample.
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | KingDian  | S400 XT            | 240 GB | 1       | 177   | 0     | 0.49   |
-| KingDian  | S400               | 120 GB | 6       | 120   | 0     | 0.33   |
+| KingDian  | S400               | 120 GB | 6       | 121   | 0     | 0.33   |
 | KingDian  | S400               | 480 GB | 1       | 73    | 0     | 0.20   |
 | KingDian  | S200               | 120 GB | 2       | 49    | 0     | 0.13   |
 | KingDian  | S280-240GB         | 240 GB | 7       | 43    | 0     | 0.12   |
-| KingDian  | S180               | 64 GB  | 10      | 38    | 114   | 0.09   |
-| KingDian  | S280               | 240 GB | 7       | 20    | 0     | 0.06   |
-| KingDian  | S280               | 120 GB | 4       | 20    | 0     | 0.06   |
+| KingDian  | S280               | 120 GB | 6       | 43    | 0     | 0.12   |
+| KingDian  | S280               | 240 GB | 8       | 42    | 0     | 0.12   |
+| KingDian  | S180               | 64 GB  | 10      | 41    | 114   | 0.10   |
 | KingDian  | S280-120GB         | 120 GB | 2       | 9     | 0     | 0.03   |
 | KingDian  | S280               | 480 GB | 1       | 9     | 0     | 0.02   |
 | KingDian  | N400 60G           | 64 GB  | 1       | 8     | 0     | 0.02   |
-| KingDian  | S200               | 64 GB  | 4       | 6     | 0     | 0.02   |
+| KingDian  | S200               | 64 GB  | 4       | 7     | 0     | 0.02   |
 | KingDian  | S180               | 120 GB | 1       | 0     | 0     | 0.00   |
 
 SSD by Family
@@ -50,5 +50,5 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| KingDian  | SiliconMotion based... | 2      | 7       | 113   | 0     | 0.31   |
-| KingDian  | Unknown                | 11     | 40      | 31    | 29    | 0.08   |
+| KingDian  | Silicon Motion base... | 5      | 22      | 64    | 0     | 0.18   |
+| KingDian  | Unknown                | 8      | 28      | 37    | 41    | 0.10   |

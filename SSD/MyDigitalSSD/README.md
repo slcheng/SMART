@@ -1,7 +1,7 @@
-Drevo Solid State Drives
-========================
+MyDigitalSSD Solid State Drives
+===============================
 
-This is a list of all tested Drevo solid state drive models and their ratings. See
+This is a list of all tested MyDigitalSSD solid state drive models and their ratings. See
 more info on reliability test in the [README](https://github.com/linuxhw/SMART).
 
 SSD by Model
@@ -17,4 +17,5 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Drevo     | X1 SSD             | 120 GB | 2       | 391   | 34    | 0.02   |
+| MyDigi... | SB M2 SSD          | 240 GB | 1       | 1161  | 0     | 3.18   |
+| MyDigi... | SC2 M2 SSD         | 120 GB | 1       | 271   | 0     | 0.74   |

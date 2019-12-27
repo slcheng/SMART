@@ -23,15 +23,17 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Apple     | SSD SM0256F        | 256 GB | 1       | 858   | 0     | 2.35   |
+| Apple     | SSD SM0256F        | 256 GB | 2       | 760   | 0     | 2.08   |
+| Apple     | SSD SM0512F        | 500 GB | 1       | 679   | 0     | 1.86   |
 | Apple     | SSD SM1024F        | 1 TB   | 1       | 545   | 0     | 1.49   |
 | Apple     | SSD TS128C         | 121 GB | 2       | 323   | 0     | 0.89   |
 | Apple     | SSD SM0512G        | 500 GB | 1       | 323   | 0     | 0.89   |
+| Apple     | SSD SM0256G        | 256 GB | 2       | 273   | 0     | 0.75   |
+| Apple     | SSD SM0128G        | 121 GB | 2       | 203   | 0     | 0.56   |
 | Apple     | SSD TS256C         | 256 GB | 2       | 126   | 0     | 0.35   |
 | Apple     | SSD SM512E         | 500 GB | 1       | 123   | 0     | 0.34   |
-| Apple     | SSD SM0256G        | 256 GB | 1       | 83    | 0     | 0.23   |
 | Apple     | SSD TS064C         | 60 GB  | 1       | 81    | 0     | 0.22   |
-| Apple     | SSD SM0128G        | 121 GB | 1       | 64    | 0     | 0.18   |
+| Apple     | SSD SM128E         | 121 GB | 1       | 52    | 0     | 0.14   |
 | Apple     | SSD SD0128F        | 121 GB | 1       | 29    | 0     | 0.08   |
 | Apple     | SSD SM256E         | 256 GB | 1       | 15    | 0     | 0.04   |
 | Apple     | SSD TS128E         | 121 GB | 1       | 128   | 8     | 0.04   |
@@ -49,7 +51,7 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Apple     | SD/SM/TS E/F/G SSDs    | 4      | 4       | 462   | 0     | 1.27   |
+| Apple     | SD/SM/TS E/F/G SSDs    | 5      | 6       | 532   | 0     | 1.46   |
 | Apple     | JMicron based SSDs     | 3      | 5       | 196   | 0     | 0.54   |
-| Apple     | SD/SM/TS E/F SSDs      | 4      | 4       | 48    | 0     | 0.13   |
+| Apple     | SD/SM/TS E/F SSDs      | 5      | 7       | 150   | 0     | 0.41   |
 | Apple     | MacBook Air SSD        | 1      | 1       | 128   | 8     | 0.04   |

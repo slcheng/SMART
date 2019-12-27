@@ -17,6 +17,6 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Londisk   | SSD                | 120 GB | 3       | 23    | 0     | 0.06   |
+| Londisk   | SSD                | 120 GB | 4       | 33    | 0     | 0.09   |
 | Londisk   | SSD                | 240 GB | 1       | 8     | 0     | 0.02   |
 | Londisk   | SSD                | 480 GB | 1       | 8     | 0     | 0.02   |

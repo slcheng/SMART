@@ -27,6 +27,7 @@ Rating — avg. rating per sample.
 | Seagate   | BarraCuda SSD Z... | 1 TB   | 1       | 18    | 0     | 0.05   |
 | Seagate   | ST480FP0021        | 480 GB | 1       | 14    | 0     | 0.04   |
 | Seagate   | BarraCuda SSD Z... | 2 TB   | 1       | 2     | 0     | 0.01   |
+| Seagate   | BarraCuda SSD Z... | 500 GB | 1       | 0     | 0     | 0.00   |
 
 SSD by Family
 -------------
@@ -43,4 +44,4 @@ Rating — avg. rating per sample.
 |-----------|------------------------|--------|---------|-------|-------|--------|
 | Seagate   | 600 Series             | 1      | 1       | 79    | 0     | 0.22   |
 | Seagate   | 600 Pro Series         | 1      | 1       | 14    | 0     | 0.04   |
-| Seagate   | Unknown                | 2      | 2       | 10    | 0     | 0.03   |
+| Seagate   | Unknown                | 3      | 3       | 7     | 0     | 0.02   |

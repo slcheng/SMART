@@ -17,5 +17,6 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
+| Palit     | PSP120 SSD         | 120 GB | 1       | 242   | 0     | 0.66   |
 | Palit     | PH120 SSD          | 120 GB | 1       | 207   | 0     | 0.57   |
-| Palit     | UVS                | 120 GB | 1       | 0     | 0     | 0.00   |
+| Palit     | UVS                | 120 GB | 1       | 24    | 0     | 0.07   |

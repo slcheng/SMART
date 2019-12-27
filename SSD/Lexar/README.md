@@ -1,7 +1,7 @@
-Drevo Solid State Drives
+Lexar Solid State Drives
 ========================
 
-This is a list of all tested Drevo solid state drive models and their ratings. See
+This is a list of all tested Lexar solid state drive models and their ratings. See
 more info on reliability test in the [README](https://github.com/linuxhw/SMART).
 
 SSD by Model
@@ -17,4 +17,4 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Drevo     | X1 SSD             | 120 GB | 2       | 391   | 34    | 0.02   |
+| Lexar     | SSD                | 256 GB | 1       | 0     | 0     | 0.00   |

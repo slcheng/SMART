@@ -17,5 +17,6 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| Gigabyte  | GP-GSTFS31120GNTD  | 120 GB | 1       | 3     | 0     | 0.01   |
-| Gigabyte  | GP-GSTFS31240GNTD  | 240 GB | 2       | 1     | 0     | 0.01   |
+| Gigabyte  | GP-GSTFS30512GTTD  | 512 GB | 1       | 57    | 0     | 0.16   |
+| Gigabyte  | GP-GSTFS31120GNTD  | 120 GB | 4       | 32    | 0     | 0.09   |
+| Gigabyte  | GP-GSTFS31240GNTD  | 240 GB | 6       | 25    | 0     | 0.07   |

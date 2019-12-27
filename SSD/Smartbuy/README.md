@@ -25,13 +25,14 @@ Rating — avg. rating per sample.
 |-----------|--------------------|--------|---------|-------|-------|--------|
 | Smartbuy  | SSD                | 64 GB  | 6       | 386   | 0     | 1.06   |
 | Smartbuy  | m.2 S11-2280S      | 128 GB | 1       | 202   | 0     | 0.56   |
-| Smartbuy  | SSD                | 120 GB | 52      | 188   | 0     | 0.52   |
+| Smartbuy  | SSD                | 120 GB | 54      | 200   | 1     | 0.51   |
 | Smartbuy  | mSata              | 64 GB  | 1       | 186   | 0     | 0.51   |
 | Smartbuy  | SSD                | 64 GB  | 20      | 175   | 0     | 0.48   |
 | Smartbuy  | m.2 S10-2280T      | 128 GB | 1       | 147   | 0     | 0.40   |
-| Smartbuy  | SSD                | 240 GB | 13      | 120   | 1     | 0.29   |
+| Smartbuy  | SSD                | 240 GB | 14      | 124   | 1     | 0.30   |
 | Smartbuy  | mSata              | 256 GB | 1       | 102   | 0     | 0.28   |
 | Smartbuy  | mSata              | 128 GB | 2       | 32    | 0     | 0.09   |
+| Smartbuy  | m.2 S11-2280       | 256 GB | 1       | 13    | 0     | 0.04   |
 | Smartbuy  | SSD                | 240 GB | 1       | 6     | 0     | 0.02   |
 | Smartbuy  | m.2 S11-2280       | 128 GB | 1       | 4     | 0     | 0.01   |
 | Smartbuy  | SSD                | 480 GB | 1       | 0     | 0     | 0.00   |
@@ -49,5 +50,5 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| Smartbuy  | Phison Driven SSDs     | 1      | 52      | 188   | 0     | 0.52   |
-| Smartbuy  | Unknown                | 11     | 48      | 169   | 1     | 0.45   |
+| Smartbuy  | Unknown                | 11     | 36      | 182   | 0     | 0.50   |
+| Smartbuy  | Phison Driven SSDs     | 2      | 68      | 184   | 1     | 0.47   |

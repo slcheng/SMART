@@ -23,11 +23,11 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
-| AMD       | R5SL240G           | 240 GB | 2       | 54    | 0     | 0.15   |
+| AMD       | R5SL240G           | 240 GB | 5       | 62    | 0     | 0.17   |
 | AMD       | R3SL60G            | 64 GB  | 2       | 35    | 0     | 0.10   |
-| AMD       | R3SL120G           | 120 GB | 19      | 34    | 0     | 0.09   |
 | AMD       | R5S240GBSF         | 240 GB | 1       | 33    | 0     | 0.09   |
 | AMD       | R5SL120G           | 120 GB | 7       | 53    | 1     | 0.09   |
+| AMD       | R3SL120G           | 120 GB | 22      | 32    | 1     | 0.09   |
 | AMD       | R3SL240G           | 240 GB | 4       | 44    | 1     | 0.06   |
 | AMD       | R3S60GBSM          | 64 GB  | 2       | 17    | 0     | 0.05   |
 | AMD       | R5S120GBSF         | 120 GB | 1       | 15    | 1016  | 0.00   |
@@ -45,5 +45,5 @@ Rating — avg. rating per sample.
 
 | MFG       | Family                 | Models | Samples | Days  | Err   | Rating |
 |-----------|------------------------|--------|---------|-------|-------|--------|
-| AMD       | SiliconMotion based... | 1      | 19      | 34    | 0     | 0.09   |
-| AMD       | Unknown                | 7      | 19      | 42    | 54    | 0.08   |
+| AMD       | Unknown                | 7      | 22      | 46    | 47    | 0.10   |
+| AMD       | SiliconMotion based... | 1      | 22      | 32    | 1     | 0.09   |

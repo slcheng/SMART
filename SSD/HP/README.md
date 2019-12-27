@@ -17,5 +17,9 @@ Rating — avg. rating per sample.
 
 | MFG       | Model              | Size   | Samples | Days  | Err   | Rating |
 |-----------|--------------------|--------|---------|-------|-------|--------|
+| HP        | SSD S700           | 120 GB | 1       | 651   | 0     | 1.79   |
 | HP        | VK0240GDJXU        | 240 GB | 1       | 238   | 0     | 0.65   |
+| HP        | SSD M700           | 120 GB | 1       | 99    | 0     | 0.27   |
 | HP        | SSD S700           | 250 GB | 1       | 11    | 0     | 0.03   |
+| HP        | SSD S700 Pro       | 256 GB | 1       | 5     | 0     | 0.02   |
+| HP        | SSD S700           | 1 TB   | 1       | 3     | 0     | 0.01   |
