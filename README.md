@@ -54,9 +54,9 @@ Number_Of_Important_Errors — number of important errors that can indicate a dr
 * Total_Pending_Sectors
 * Unc_Soft_Read_Err_Rate
 
-The list of important SMART attributes is taken from recent studies of Google [1] and
-Backblaze [2]. If an attribute exceeds the value of 1000 then it's counted as '1000 +
-log10(X - 999)'.
+The list of important SMART attributes is taken from recent studies of Google [1],
+Backblaze [2] and Acronis [3]. If an attribute exceeds the value of 1000 then it's
+counted as '1000 + log10(X - 999)'.
 
 The list of tracked attributes and rating calculation method can be discussed. Please
 suggest your ideas in "issues".
@@ -65,6 +65,7 @@ You can perform your own analysis of collected reports if needed.
 
 * [1] Google, "Failure Trends in a Large Disk Drive Population" (https://research.google.com/archive/disk_failures.pdf)
 * [2] Backblaze, "Hard Drive SMART Stats" (https://www.backblaze.com/blog/hard-drive-smart-stats/)
+* [3] Acronis, "Acronis Drive Monitor: Disk Health Calculation" (https://kb.acronis.com/content/9264)
 
 HDD by Model
 ------------
